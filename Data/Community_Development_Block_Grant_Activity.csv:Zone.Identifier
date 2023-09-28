@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://hudgis-hud.opendata.arcgis.com/
+HostUrl=https://opendata.arcgis.com/api/v3/datasets/9ad2b3d92d0647e9afe10fe7c77d09ad_1/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
