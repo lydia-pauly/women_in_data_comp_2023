@@ -38,18 +38,3 @@ st.markdown(
 )
 st.write("Summary")
 
-st.markdown(
-   """
-   <h2 style='font-size: 22px'>3. National Risk Index</h2>
-   """,
-   unsafe_allow_html=True
-)
-st.write("Summary")
-
-st.markdown(
-   """
-   <h2 style='font-size: 22px'>4. Carbon Emissions</h2>
-   """,
-   unsafe_allow_html=True
-)
-st.write("Summary")
