@@ -1,0 +1,1162 @@
+ClimateZone,SpeciesCode,ScientificName,CommonName,TreeType,SppValueAssignment
+SWDistrict,ACAN,Acacia aneura,Mulga,BES,ACSA3
+SWDistrict,ACFA,Acacia farnesiana,Sweet acacia,BDS,ACFA
+SWDistrict,ACMI,Acacia millefolia,Milfoil wattle,BES,ACSA3
+SWDistrict,ACSA3,Acacia salicina,Willow acacia,BEM,ACSA3
+SWDistrict,ACSA,Acacia saligna,Orange wattle,BES,ACSA3
+SWDistrict,ACSP2,Acacia  species,Acacia,BES,ACSA3
+SWDistrict,ACST,Acacia stenophylla,Shoestring acacia,BES,BES OTHER
+SWDistrict,ALJU,Albizia julibrissin,Mimosa,BDM,BDM OTHER
+SWDistrict,ARRO,Arecastrum romanzoffianum,Queen palm,PES,PES OTHER
+SWDistrict,BAVA,Bauhinia variegata,Mountain ebony,BDS,BDS OTHER
+SWDistrict,BRPO,Brachychiton populneum,Bottle tree,BEM,BRPO
+SWDistrict,BRAR,Brahea armata,Mexican blue palm,PES,PES OTHER
+SWDistrict,CAVI,Callistemon viminalis,Weeping bottlebrush,BES,BES OTHER
+SWDistrict,CAIL,Carya illinoinensis,Pecan,BDL,BDL OTHER
+SWDistrict,CAEQ,Casuarina equisetifolia,Australian pine,CEL,CEL OTHER
+SWDistrict,CESI3,Ceratonia siliqua,Algarrobo europeo,BEM,BEM OTHER
+SWDistrict,CEFL,Parkinsonia florida,Blue paloverde,BDM,CEFL
+SWDistrict,CEMI,Parkinsonia microphylla,Yellow paloverde,BDS,CEFL
+SWDistrict,CEPR,Cercidium praecox,Sonoran palo verde,BDS,CEFL
+SWDistrict,CHHU,Chamaerops humilis,Mediterranean fan palm,BES,BES OTHER
+SWDistrict,CHLI,Chilopsis linearis,Desert willow,BDS,CHLI
+SWDistrict,CISP,Citrus  species,Citrus,BES,BES OTHER
+SWDistrict,CUGU,Cupressus guadalupensis,Guadaluoe cypress,CEL,CEL OTHER
+SWDistrict,CUSE,Cupressus sempervirens,Italian cypress,CEL,CEL OTHER
+SWDistrict,CYOB,Cydonia oblonga,Quince,BDS,BDS OTHER
+SWDistrict,DASI,Dalbergia sissoo,India rosewood,BEL,BEM OTHER
+SWDistrict,EBEB,Ebenopsis ebano,Texas ebony,BES,BES OTHER
+SWDistrict,EUCA1,Eucalyptus camaldulensis,Red gum eucalyptus,BEL,EUMI2
+SWDistrict,EULE,Eucalyptus leucoxylon,White ironbark,BEL,EUMI2
+SWDistrict,EUMI2,Eucalyptus microtheca,Coolibah tree,BEL,EUMI2
+SWDistrict,EUPO,Eucalyptus polyanthemos,Sliver dollar gum eucalyptus,BEL,BEL OTHER
+SWDistrict,EURU,Eucalyptus rudis,Desert gum eucalyptus,BEL,EUMI2
+SWDistrict,EUSI,Eucalyptus sideroxylon,Red ironbark,BEL,EUMI2
+SWDistrict,EUSP,Eucalyptus spathulata,Narrow-leaved gimlet,BES,EUMI2
+SWDistrict,EU1,Eucalyptus  species,Gum,BEL,EUMI2
+SWDistrict,EUTO11,Eucalyptus torquata,Coral gum,BEM,EUMI2
+SWDistrict,FIBE,Ficus benjamina,Benjamin fig,BES,BES OTHER
+SWDistrict,FICA,Ficus carica,Common fig,BDS,BDS OTHER
+SWDistrict,FIRE4,Ficus retusa ssp. nitida,Indian laurel fig,BEM,BEM OTHER
+SWDistrict,FRUH,Fraxinus uhdei,Evergreen ash,BDL,FRUH
+SWDistrict,FRVE,Fraxinus velutina,Velvet ash,BDM,FRVE
+SWDistrict,GEPA,Geijera parviflora,Australian willow,BES,BES OTHER
+SWDistrict,GLTR,Gleditsia triacanthos,Honeylocust,BDL,BDL OTHER
+SWDistrict,GRRO,Grevillea robusta,Silk oak,BEL,BEL OTHER
+SWDistrict,JAMI,Jacaranda mimosifolia,Jacaranda,BDM,BDM OTHER
+SWDistrict,JU,Juniperus  species,Juniper,CES,CES OTHER
+SWDistrict,LAIN,Lagerstroemia indica,Common crapemyrtle,BDS,BDS OTHER
+SWDistrict,LILU,Ligustrum lucidum,Chinese privet,BES,BES OTHER
+SWDistrict,LYMI,Lysiloma microphyllum,Feather bush,BES,PRCH
+SWDistrict,MATI,Machaerium tipu,Tipa,BDM,BDM OTHER
+SWDistrict,MAGR,Magnolia grandiflora,Southern magnolia,BEM,BEM OTHER
+SWDistrict,MA2,Malus  species,Apple,BDS,BDS OTHER
+SWDistrict,MEAZ,Melia azedarach,Chinaberry,BDM,BDM OTHER
+SWDistrict,MOAL,Morus alba,White mulberry,BDM,MOAL
+SWDistrict,MYCO,Myrtus communis,Myrtle,BES,BES OTHER
+SWDistrict,NEOL,Nerium oleander,Oleander,BES,BES OTHER
+SWDistrict,OLEU,Olea europaea,Olive,BES,OLEU
+SWDistrict,OLTE,Olneya tesota,Tesota,BES,BES OTHER
+SWDistrict,OTHER,Other,Other,BES,BES OTHER
+SWDistrict,PAAC,Parkinsonia aculeata,Jerusalem thorn,BDM,PAAC
+SWDistrict,PHCA,Phoenix canariensis,Canary Island date palm,PEL,PHCA
+SWDistrict,PHDA4,Phoenix dactylifera,Date palm,PEM,PHDA4
+SWDistrict,PIBR2,Pinus brutia,Turkish pine,CEM,PIBR2
+SWDistrict,PICA,Pinus canariensis,Canary Island pine,CEL,CEL OTHER
+SWDistrict,PICO5,Pinus contorta 'bolanderi',Bolander beach pine,CES,PICO5
+SWDistrict,PIEL2,Pinus eldarica,Afghan pine,CEL,PIEL2
+SWDistrict,PIHA,Pinus halepensis,Aleppo pine,CEL,PIHA
+SWDistrict,PIRO,Pinus roxburghii,Chir pine,CEL,CEL OTHER
+SWDistrict,PI2,Pinus  species,Pine,CEL,CEL OTHER
+SWDistrict,PICH,Pistacia chinensis,Chinese pistache,BDM,PICH
+SWDistrict,PLRA,Platanus racemosa,California sycamore,BDL,BDL OTHER
+SWDistrict,PLWR,Platanus wrightii,Arizona sycamore,BDL,BDL OTHER
+SWDistrict,THOR,Platycladus orientalis,Oriental arborvitae,BES,BES OTHER
+SWDistrict,PO,Populus  species,Cottonwood,BDL,BDL OTHER
+SWDistrict,POBAB2,Populus balsamifera ssp. balsamifera,Balsam popular,BDL,BDL OTHER
+SWDistrict,POFR,Populus fremontii,Fremont cottonwood,BDL,BDL OTHER
+SWDistrict,PRAL2,Prosopis alba,Argentine mesquite,BEM,BEM OTHER
+SWDistrict,PRCH,Prosopis chilensis,Algarrobo,BDM,PRCH
+SWDistrict,PRGL2,Prosopis glandulosa,Honey mesquite,BDS,PRCH
+SWDistrict,PRPU2,Prosopis pubescens,Screwbean mesquite,BDS,PRCH
+SWDistrict,PR6,Prosopis  species,Mesquite,BDS,PRCH
+SWDistrict,PRVE,Prosopis velutina,Velvet mesquite,BDS,PRCH
+SWDistrict,PRAR,Prunus armeniaca,Apricot,BDS,BDS OTHER
+SWDistrict,PRCE,Prunus cerasifera,Cherry plum,BDS,BDS OTHER
+SWDistrict,PRDU,Prunus dulcis,Sweet almond,BDS,BDS OTHER
+SWDistrict,PRPE2,Prunus persica,Peach,BDS,BDS OTHER
+SWDistrict,PR,Prunus  species,Plum,BDS,BDS OTHER
+SWDistrict,PYCO,Pyrus communis,Common pear,BDM,BDM OTHER
+SWDistrict,PYKA,Pyrus kawakamii,Evergreen pear,BES,BES OTHER
+SWDistrict,QUMU,Quercus muehlenbergii,Chinkapin oak,BDL,BDL OTHER
+SWDistrict,QUSU,Quercus suber,Cork oak,BEL,BEL OTHER
+SWDistrict,QUVI,Quercus virginiana,Live oak,BEM,QUVI
+SWDistrict,RHLA,Rhus lancea,African sumac,BES,RHLA
+SWDistrict,SA,Salix  species,Willow,BDS,BDS OTHER
+SWDistrict,SABA,Salix x sepulcralis Simonkai,Weeping willow,BDM,BDM OTHER
+SWDistrict,SCMO,Schinus molle,California peppertree,BEM,BEM OTHER
+SWDistrict,SOSE,Sophora secundiflora,Mescalbean,BES,BES OTHER
+SWDistrict,TACH2,Tamarix chinensis,Fivestamen tamarisk,BDS,BDS OTHER
+SWDistrict,TAMU,Taxodium mucronatum,Montezuma cypress,CEL,CEL OTHER
+SWDistrict,THPE3,Thevetia peruviana,Luckynut,BES,BES OTHER
+SWDistrict,ULPA,Ulmus parvifolia,Chinese elm,BDM,ULPA
+SWDistrict,VIAG,Vitex agnus-castus,Chaste tree,BDS,BDS OTHER
+SWDistrict,WAFI,Washingtonia filifera,California palm,PES,WAFI
+SWDistrict,WARO,Washingtonia robusta,Mexican fan palm,PES,WARO
+SWDistrict,BDL OTHER,Broadleaf Deciduous Large,Broadleaf Deciduous Large,BDL,FRUH
+SWDistrict,BDM OTHER,Broadleaf Deciduous Medium,Broadleaf Deciduous Medium,BDM,PRCH
+SWDistrict,BDS OTHER,Broadleaf Deciduous Small,Broadleaf Deciduous Small,BDS,ACFA
+SWDistrict,BEL OTHER,Broadleaf Evergreen Large,Broadleaf Evergreen Large,BEL,EUMI2
+SWDistrict,BEM OTHER,Broadleaf Evergreen Medium,Broadleaf Evergreen Medium,BEM,BRPO
+SWDistrict,BES OTHER,Broadleaf Evergreen Small,Broadleaf Evergreen Small,BES,RHLA
+SWDistrict,CEL OTHER,Conifer Evergreen Large,Conifer Evergreen Large,CEL,PIHA
+SWDistrict,CEM OTHER,Conifer Evergreen Medium,Conifer Evergreen Medium,CEM,PIBR2
+SWDistrict,CES OTHER,Conifer Evergreen Small,Conifer Evergreen Small,CES,PICO5
+SWDistrict,PEL OTHER,Palm Evergreen Large,Palm Evergreen Large,PEL,PHCA
+SWDistrict,PEM OTHER,Palm Evergreen Medium,Palm Evergreen Medium,PEM,PHDA4
+SWDistrict,PES OTHER,Palm Evergreen Small,Palm Evergreen Small,PES,WARO
+InlandValley,AC,Acer  species,Maple,BDM,ACSA1
+InlandValley,ACBU,Acer buergerianum,Trident maple,BDS,ACSA1
+InlandValley,ACNE,Acer negundo,Boxelder,BDL,ACSA1
+InlandValley,ACPA,Acer palmatum,Japanese maple,BDS,ACSA1
+InlandValley,ACPL,Acer platanoides,Norway maple,BDL,ACSA1
+InlandValley,ACPL_CK,Acer platanoides 'Crimson King',Norway maple 'Crimson King',BDL,ACSA1
+InlandValley,ACPS_S,Acer pseudoplatanus 'Spaethii',Sycamore maple 'Spaethii',BDM,ACSA1
+InlandValley,ACRU,Acer rubrum,Red maple,BDM,ACSA1
+InlandValley,ACSA1,Acer saccharinum,Silver maple,BDL,ACSA1
+InlandValley,ACSP2,Acacia  species,Acacia,BEM,BEL OTHER
+InlandValley,AECA3_B,Aesculus carnea 'Briottii',Red horsechestnut 'Briotti',BDM,BDM OTHER
+InlandValley,AECA3_S,Aesculus carnea 'Stafford',Red horsechestnut 'Stafford ',BDM,BDM OTHER
+InlandValley,AIAL,Ailanthus altissima,Tree of heaven,BDM,BDM OTHER
+InlandValley,ALJU,Albizia julibrissin,Mimosa,BDM,BDM OTHER
+InlandValley,ALRH,Alnus rhombifolia,White alder,BDM,BDM OTHER
+InlandValley,ARRO,Arecastrum romanzoffianum,Queen palm,PES,PES OTHER
+InlandValley,BEPE,Betula pendula,European white birch,BDM,BEPE
+InlandValley,BRED,Brahea edulis,Guadalupe palm,PEM,PEM OTHER
+InlandValley,BRPA,Broussonetia papyrifera,Paper mulberry,BDS,BDS OTHER
+InlandValley,CABE,Carpinus betulus,European hornbeam,BDM,BDM OTHER
+InlandValley,CABE_F,Carpinus betulus 'Fastigiate',Fastigate hornbeam,BDM,BDM OTHER
+InlandValley,CACI,Callistemon citrinus,Lemon bottlebrush,BES,BES OTHER
+InlandValley,CADE2,Calocedrus decurrens,Incense cedar,CEL,CEL OTHER
+InlandValley,CAIL,Carya illinoensis,Pecan,BDL,BDL OTHER
+InlandValley,CE2,Celtis  species,Hackberry,BDL,BDL OTHER
+InlandValley,CEAT,Cedrus atlantica,Atlas cedar,CEL,CEL OTHER
+InlandValley,CECA,Cercis canadensis,Eastern redbud,BDS,BDS OTHER
+InlandValley,CEDE,Cedrus deodara,Deodar cedar,CEL,CEL OTHER
+InlandValley,CEOC,Celtis occidentalis,Northern hackberry,BDL,BDL OTHER
+InlandValley,CEOC3,Cercis canadensis var. texensis,Western redbud,BDS,BDS OTHER
+InlandValley,CESI2,Cercis siliquastrum,Arbol de judea,BDS,BDS OTHER
+InlandValley,CESI3,Ceratonia siliqua,Algarrobo europeo,BEM,BDL OTHER
+InlandValley,CESI4,Celtis sinensis,Chinese hackberry,BDL,CESI4
+InlandValley,CHLI,Chilopsis linearis,Desert willow,BDS,BDS OTHER
+InlandValley,CICA,Cinnamomum camphora,Camphor tree,BEM,CICA
+InlandValley,CISP,Citrus  species,Citrus,BES,BES OTHER
+InlandValley,COFL,Cornus florida,Flowering dogwood,BES,BES OTHER
+InlandValley,CR,Crataegus  species,Hawthorn,BDS,BDS OTHER
+InlandValley,CRLA80,Crataegus laevigata,Smooth hawthorn,BDS,BDS OTHER
+InlandValley,CRPH,Crataegus phaenopyrum,Washington hawthorn,BDS,BDS OTHER
+InlandValley,CU,Cupressus  species,Cypress,CEL,CEL OTHER
+InlandValley,CULE,x Cupressocyparis leylandii,Leyland cypress,CEL,CEL OTHER
+InlandValley,CUMA,Cupressus macrocarpa,Monterey cypress,CEL,CEL OTHER
+InlandValley,CUSE,Cupressus sempervirens,Italian cypress,CEL,CEL OTHER
+InlandValley,DIKA,Diospyros kaki,Japanese persimmon,BDM,BDM OTHER
+InlandValley,ELAN,Elaeagnus angustifolia,Russian olive,BDS,BDS OTHER
+InlandValley,ERDE,Eriobotrya deflexa,Bronze loquat,BES,BES OTHER
+InlandValley,ERJA,Eriobotrya japonica,Loquat tree,BES,BES OTHER
+InlandValley,EU1,Eucalyptus  species,Gum,BEL,BEL OTHER
+InlandValley,EUPO,Eucalyptus polyanthemos,Sliver dollar gum eucalyptus,BEL,BEL OTHER
+InlandValley,FASY,Fagus sylvatica,European beech,BDL,BDL OTHER
+InlandValley,FICA,Ficus carica,Common fig,BDS,BDS OTHER
+InlandValley,FRAM,Fraxinus americana,White ash,BDL,FRVE_G
+InlandValley,FRAM_A,Fraxinus americana 'Autumn Purple',Autumn purple ash,BDL,FRVE_G
+InlandValley,FRAM_R,Fraxinus americana 'Rosehill',Rosehill ash,BDL,FRVE_G
+InlandValley,FREX,Fraxinus excelsior,European ash,BDL,FRVE_G
+InlandValley,FREX_H,Fraxinus excelsior 'Hessei',Hesse ash,BDL,FREX_H
+InlandValley,FREX_K,Fraxinus excelsior 'Kimberly',Kimberly ash,BDL,FREX_H
+InlandValley,FRHO,Fraxinus holotricha,Moraine ash,BDM,FRHO
+InlandValley,FROX_F,Fraxinus oxycarpa  'Flame',Flame ash,BDM,FRAN_R
+InlandValley,FRAN_R,Fraxinus angustifolia 'Raywood',Raywood ash,BDM,FRAN_R
+InlandValley,FRPE,Fraxinus pennsylvanica,Green ash,BDM,FRPE_M
+InlandValley,FRPE_S,Fraxinus pennsylvanica 'Summit',Summit ash,BDM,FRPE_M
+InlandValley,FRPE_P,Fraxinus pennsylvanica 'Patmore',Patmore ash,BDM,FRPE_M
+InlandValley,FRPE_M,Fraxinus pennsylvanica 'Marshall',Marshall ash,BDM,FRPE_M
+InlandValley,FRUH,Fraxinus uhdei,Evergreen ash,BDL,FRPE_M
+InlandValley,FRVE,Fraxinus velutina,Velvet ash,BDL,FRVE_G
+InlandValley,FRVE_FW,Fraxinus velutina 'Fan West',Velvet ash 'Fan West',BDM,FRVE_G
+InlandValley,FRVE_G,Fraxinus velutina 'Modesto',Modesto ash,BDL,FRVE_G
+InlandValley,GIBI,Ginkgo biloba,Ginkgo,BDM,GIBI
+InlandValley,GIBI_AG,Ginkgo biloba 'Autumn Gold',Ginkgo 'Autumn Gold',BDM,GIBI
+InlandValley,GIBI_F,Ginkgo biloba 'Fairmont',Ginkgo 'Fairmont',BDM,GIBI
+InlandValley,GL3,Gleditsia  species,Locust,BDL,GLTR
+InlandValley,GLTR,Gleditsia triacanthos,Honeylocust,BDL,GLTR
+InlandValley,GLTR_S,Gleditsia triancanthos 'Sunburst',Sunburst honeylocust,BDL,GLTR
+InlandValley,GRRO,Grevillea robusta,Silk oak,BEL,BEL OTHER
+InlandValley,HISY,Hibiscus syriacus,Rose-of-sharon,BDS,BDS OTHER
+InlandValley,JU1,Juglans  species,Walnut,BDL,BDL OTHER
+InlandValley,JUHI,Juglans hindsii,Hind walnut,BDL,BDL OTHER
+InlandValley,JUNI,Juglans nigra,Black walnut,BDL,BDL OTHER
+InlandValley,KOPA,Koelreuteria paniculata,Goldenrain tree,BDM,KOPA
+InlandValley,KOPA_F,Koelreuteria paniculata 'Fastigiata',Goldenrain 'Fastigiata',BDM,KOPA
+InlandValley,LAIN,Lagerstroemia indica,Common crapemyrtle,BDS,LAIN
+InlandValley,LANO,Laurus nobilis,Laurel de olor,BEM,BEM OTHER
+InlandValley,LIFO,Liquidambar formosana,Chinese sweet gum,BDM,LIST
+InlandValley,LILU,Ligustrum lucidum,Chinese privet,BES,BES OTHER
+InlandValley,LIST,Liquidambar styraciflua,Sweetgum,BDL,LIST
+InlandValley,LITU,Liriodendron tulipifera,Tulip tree,BDL,LIST
+InlandValley,MA1,Magnolia  species,Magnolia,BEM,MAGR
+InlandValley,MA2,Malus  species,Apple,BDS,BDS OTHER
+InlandValley,MABO,Maytenus boaria,Mayten tree,BEM,BEM OTHER
+InlandValley,MAFL80,Malus floribunda,Japanese flowering crabapple,BDS,BDS OTHER
+InlandValley,MAGR,Magnolia grandiflora,Southern magnolia,BEM,MAGR
+InlandValley,MASO,Magnolia x soulangiana,Chinese magnolia; Saucer magnolia,BDS,MAGR
+InlandValley,MASO_G,Magnolia soulangiana 'Galaxy',Galaxy magnolia,BDS,MAGR
+InlandValley,MEAZ,Melia azedarach,Chinaberry,BDM,BDM OTHER
+InlandValley,MOAL,Morus alba,White mulberry,BDM,BDM OTHER
+InlandValley,NEOL,Nerium oleander,Oleander,BES,BES OTHER
+InlandValley,NYSY,Nyssa sylvatica,Black tupelo,BDM,BDM OTHER
+InlandValley,OLEU,Olea europaea,Olive,BEM,BEM OTHER
+InlandValley,OSVI,Ostrya virginiana,Eastern hophornbeam,BDM,BDM OTHER
+InlandValley,PHCA,Phoenix canariensis,Canary island date palm,PEL,PHCA
+InlandValley,PHDA4,Phoenix dactylifera,Date palm,PEM,PHDA4
+InlandValley,PHFR,Photinia x fraseri,Fraser photinia,BES,BES OTHER
+InlandValley,PHSE,Photinia serratifolia,Taiwanese photinia,BES,BES OTHER
+InlandValley,PHSP2,Photinia  species,Chokeberry,BES,BES OTHER
+InlandValley,PI1,Picea  species,Spruce,CEL,CEL OTHER
+InlandValley,PI2,Pinus  species,Pine,CEL,CEL OTHER
+InlandValley,PI23,Pittosporum  species,Cheesewood,BES,BES OTHER
+InlandValley,PIAT4,Pistacia atlantica,Mt. atlas mastic tree,BDM,PICH
+InlandValley,PIBR2,Pinus brutia,Turkish pine,CEM,PIBR2
+InlandValley,PICH,Pistacia chinensis,Chinese pistache,BDM,PICH
+InlandValley,PICH_PS,Pistacia chinensis 'Pearl Street',Chinese pistache 'Pearl street',BDM,PICH
+InlandValley,PICO5,Pinus contorta 'bolanderi',Bolander beach pine,CES,PICO5
+InlandValley,PINI,Pinus nigra,Austrian pine,CEM,CEM OTHER
+InlandValley,PIPA4,Pinus patula,NCN,CEL,CEL OTHER
+InlandValley,PIPI2,Pinus pinea,Itailian stone pine,CEL,CEL OTHER
+InlandValley,PIPU,Picea pungens,Blue spruce,CEL,CEL OTHER
+InlandValley,PIRA,Pinus radiata,Montery pine,CEL,PIRA
+InlandValley,PISY,Pinus sylvestris,Scotch pine,CEL,CEL OTHER
+InlandValley,PITH,Pinus thunbergiana,Japanese black pine,CEL,PITH
+InlandValley,PIUN,Pittosporum undulatum,Victorian box,BES,BES OTHER
+InlandValley,PLAC,Platanus hybrida,London planetree,BDL,PLAC
+InlandValley,PLAC_B,Platanus acerifolia 'Bloodgood',London planetree 'Bloodgood',BDL,PLAC
+InlandValley,PLAC_C,Platanus acerifolia 'Columbia',London planetree 'Columbia',BDL,PLAC
+InlandValley,PLOC,Platanus occidentalis,American sycamore,BDL,PLAC
+InlandValley,PLOR,Platanus orientalis,Oriental planetree,BDL,PLAC
+InlandValley,PO,Populus  species,Cottonwood,BDL,BDL OTHER
+InlandValley,POGR2,Podocarpus gracilior,Fern pine,BEL,BEL OTHER
+InlandValley,PR,Prunus  species,Plum,BDS,BDS OTHER
+InlandValley,PRAM2,Prunus amygdalus,Almendro,BDS,BDS OTHER
+InlandValley,PRAR,Prunus armeniaca,Apricot,BDM,BDM OTHER
+InlandValley,PRAV,Prunus avium,Sweet cherry,BDM,BDM OTHER
+InlandValley,PRBL,Prunus blieriana,Blierana plum,BDS,BDS OTHER
+InlandValley,PRCE,Prunus cerasifera,Cherry plum,BDS,BDS OTHER
+InlandValley,PRPE2,Prunus persica,Peach,BDS,BDS OTHER
+InlandValley,PRSU,Prunus subhirtella,Higan cherry,BDS,BDS OTHER
+InlandValley,PUGR,Punica granatum,Pomegranate,BDS,BDS OTHER
+InlandValley,PY,Pyrus  species,Pear,BDM,BDM OTHER
+InlandValley,PYCA_A,Pyrus calleryana 'Aristocrat',Callery pear 'Aristocrat',BDM,BDM OTHER
+InlandValley,PYCA_B,Pyrus calleryana 'Bradford',Callery pear 'Bradford',BDM,PYCA_B
+InlandValley,PYCA_C,Pyrus calleryana 'Capital',Callery pear 'Capital',BDM,BDM OTHER
+InlandValley,PYCA_CH,Pyrus calleryana 'Chanticleer',Callery pear 'Chanticleer',BDM,BDM OTHER
+InlandValley,PYCA_R,Pyrus calleryana 'Red Spire',Callery pear 'Redspire',BDM,BDM OTHER
+InlandValley,PYCA_T,Pyrus calleryana 'Trinity',Callery pear 'Trinity',BDM,BDM OTHER
+InlandValley,PYCA_W,Pyrus calleryana 'Whitehouse',Callery pear 'Whitehouse',BDM,BDM OTHER
+InlandValley,PYKA,Pyrus kawakamii,Evergreen pear,BES,PYKA
+InlandValley,QU,Quercus  species,Oak,BDL,BEL OTHER
+InlandValley,QUAG,Quercus agrifolia,Coastal live oak; California live oak,BEL,BEL OTHER
+InlandValley,QUCO,Quercus coccinea,Scarlet oak,BDL,BEL OTHER
+InlandValley,QUIL2,Quercus ilex,Roble negro,BEL,QUIL2
+InlandValley,QULO,Quercus lobata,California white oak,BDL,BEL OTHER
+InlandValley,QUPA,Quercus palustris,Pin oak,BDL,BEL OTHER
+InlandValley,QURU,Quercus rubra,Northern red oak,BDL,BEL OTHER
+InlandValley,QUSU,Quercus suber,Cork oak,BEL,BEL OTHER
+InlandValley,QUWI,Quercus wislizeni,Interior live oak,BEL,BEL OTHER
+InlandValley,RHLA,Rhus lancea,African sumac,BES,BES OTHER
+InlandValley,ROPS,Robinia pseudoacacia,Black locust,BDM,GLTR
+InlandValley,ROPS_PR,Robinia pseudoacacia 'Purple Robe',Black locust 'Purple robe',BDM,GLTR
+InlandValley,SA,Salix  species,Willow,BDM,BDM OTHER
+InlandValley,SAMA,Salix matsudana,Corkscrew willow,BDS,BDS OTHER
+InlandValley,SAPE12,Salix x pendulina Wenderoth,Wisconsin weeping willow,BDL,BDL OTHER
+InlandValley,SCMO,Schinus molle,California peppertree,BEM,BEM OTHER
+InlandValley,SEGI,Sequoiadendron giganteum,Giant sequoia,CEL,CEL OTHER
+InlandValley,SESE,Sequoia sempervirens,Coast redwood,CEL,CEL OTHER
+InlandValley,SOHUCF,Sorbus hupehensis var coral fire,Mountain ash 'Coral Fire',BDS,BDS OTHER
+InlandValley,SOHUCQ,Sorbus hupehensis var columbia queen,Mountain ash 'Columbia Queen',BDS,BDS OTHER
+InlandValley,SOJA,Sophora japonica,Japanese pagoda tree,BDM,PICH
+InlandValley,TADI,Taxodium distichum,Baldcypress,BDL,CEL OTHER
+InlandValley,TI,Tilia  species,Basswood,BDM,BDM OTHER
+InlandValley,TRFO,Trachycarpus fortunei,Windmill palm,PEM,PEM OTHER
+InlandValley,TRLA,Tristaniopsis laurina,Water gum; kanooka,BES,BES OTHER
+InlandValley,TRLA_E,Tristania laurina 'Elegans',Water gum 'Elegans',BES,BES OTHER
+InlandValley,TRSE6,Triadica sebifera,Tallowtree,BDM,BDM OTHER
+InlandValley,ULPA,Ulmus parvifolia,Chinese elm,BDL,ZESE
+InlandValley,ULS,Ulmus  species,Elm,BDL,ZESE
+InlandValley,UMCA,Umbellularia californica,California laurel,BEL,BEL OTHER
+InlandValley,WAFI,Washingtonia filifera,California palm,CES,PES OTHER
+InlandValley,WARO,Washingtonia robusta,Mexican fan palm,PES,WARO
+InlandValley,ZESE,Zelkova serrata,Japanese zelkova,BDM,ZESE
+InlandValley,ZESE_V,Zelkova serrata 'Village Green',Japanese zelkova 'Village Green',BDM,ZESE
+InlandValley,BDL OTHER,Broadleaf Deciduous Large,Broadleaf Deciduous Large,BDL,CESI4
+InlandValley,BDM OTHER,Broadleaf Deciduous Medium,Broadleaf Deciduous Medium,BDM,PYCA_B
+InlandValley,BDS OTHER,Broadleaf Deciduous Small,Broadleaf Deciduous Small,BDS,LAIN
+InlandValley,BEL OTHER,Broadleaf Evergreen Large,Broadleaf Evergreen Large,BEL,QUIL2
+InlandValley,BEM OTHER,Broadleaf Evergreen Medium,Broadleaf Evergreen Medium,BEM,CICA
+InlandValley,BES OTHER,Broadleaf Evergreen Small,Broadleaf Evergreen Small,BES,PYKA
+InlandValley,CEL OTHER,Conifer Evergreen Large,Conifer Evergreen Large,CEL,PIRA
+InlandValley,CEM OTHER,Conifer Evergreen Medium,Conifer Evergreen Medium,CEM,PIBR2
+InlandValley,CES OTHER,Conifer Evergreen Small,Conifer Evergreen Small,CES,PICO5
+InlandValley,PEL OTHER,Palm Evergreen Large,Palm Evergreen Large,PEL,PHCA
+InlandValley,PEM OTHER,Palm Evergreen Medium,Palm Evergreen Medium,PEM,PHDA4
+InlandValley,PES OTHER,Palm Evergreen Small,Palm Evergreen Small,PES,WARO
+InlandEmpire,ABPR,Abies procera,Noble fir,CEL,CEL OTHER
+InlandEmpire,ACBA2,Acacia baileyana,Bailey acacia,BEM,BEM OTHER
+InlandEmpire,ACDE,Acacia decurrens,Green acacia,BEM,BEM OTHER
+InlandEmpire,ACLO,Acacia longifolia,Sydney golden wattle,BEM,BEM OTHER
+InlandEmpire,ACMA,Acer macrophyllum,Bigleaf maple,BDL,BDL OTHER
+InlandEmpire,ACME,Acacia melanoxylon,Black acacia,BEM,BEM OTHER
+InlandEmpire,ACOB,Acer oblongum,Evergreen maple,BEM,BEM OTHER
+InlandEmpire,ACPA,Acer palmatum,Japanese maple,BDL,BDL OTHER
+InlandEmpire,ACRU,Acer rubrum,Red maple,BDL,BDL OTHER
+InlandEmpire,ACSA1,Acer saccharinum,Silver maple,BDL,BDL OTHER
+InlandEmpire,AECA2,Aesculus californica,California buckeye,BES,BES OTHER
+InlandEmpire,AECA3,Aesculus carnea,Red horsechestunt,BDS,BDS OTHER
+InlandEmpire,AGFL,Agonis flexuosa,Peppermint tree; astralian willow myrtle,BES,BES OTHER
+InlandEmpire,AIAL,Ailanthus altissima,Tree of heaven,BDM,BDM OTHER
+InlandEmpire,ALCO2,Alnus cordata,Italian alder,BDM,BDM OTHER
+InlandEmpire,ALGL,Alnus glutinosa,European alder,BDL,BDL OTHER
+InlandEmpire,ALJU,Albizia julibrissin,Mimosa,BDS,BDS OTHER
+InlandEmpire,ALRH,Alnus rhombifolia,White alder,BDM,BDM OTHER
+InlandEmpire,ARCU,Archontophoenix cunninghamiana,King palm,PES,PES OTHER
+InlandEmpire,ARHE,Araucaria heterophylla,NCN,CEL,CEL OTHER
+InlandEmpire,ARMA2,Arbutus var. marina,Marina arbutus,BES,BES OTHER
+InlandEmpire,ARRO,Arecastrum romanzoffianum,Queen palm,PES,PES OTHER
+InlandEmpire,ARUN,Arbutus unedo,Strawberry tree,BES,BES OTHER
+InlandEmpire,BAFO,Bauhinia forficata,Bauhinia,BDS,BDS OTHER
+InlandEmpire,BAVA,Bauhinia variegata,Mountain ebony,BDS,BDS OTHER
+InlandEmpire,BEPE,Betula pendula,European white birch,BDM,BDM OTHER
+InlandEmpire,BRAC2,Brachychiton acerifolium,Arbol de la llama,BDM,BDM OTHER
+InlandEmpire,BRAR,Brahea armata,Mexican blue palm,PES,PES OTHER
+InlandEmpire,BRBR,Brahea brandegeei,San jose hesper palm,PES,PES OTHER
+InlandEmpire,BRDI9,Brachychiton discolor,Pink flame tree,BDM,BDM OTHER
+InlandEmpire,BRED,Brahea edulis,Guadalupe palm,PES,PES OTHER
+InlandEmpire,BRPO,Brachychiton populneum,Kurrajong,BEM,BRPO
+InlandEmpire,BUCA,Butia capitata,Jelly palm,PES,PES OTHER
+InlandEmpire,CACA3,Calodendrum capense,Cape chesnut,BEM,BEM OTHER
+InlandEmpire,CACI,Callistemon citrinus,Lemon bottlebrush,BES,BES OTHER
+InlandEmpire,CADE,Castanea dentata,American chestnut,BDL,BDL OTHER
+InlandEmpire,CADE2,Calocedrus decurrens,Incense cedar,CEL,CEL OTHER
+InlandEmpire,CAED,Casimiroa edulis,White sapote,BEL,BEL OTHER
+InlandEmpire,CAIL,Carya illinoinensis,Pecan,BDL,BDL OTHER
+InlandEmpire,CALE,Cassia leptophylla,Gold medallion tree,BES,BES OTHER
+InlandEmpire,CASP,Catalpa speciosa,Northern catalpa,BDL,BDL OTHER
+InlandEmpire,CATW,Calliandra tweedii,Trinidad flame bush,BES,BES OTHER
+InlandEmpire,CAVI,Callistemon viminalis,Weeping bottlebrush,BES,BES OTHER
+InlandEmpire,CEAT,Cedrus atlantica,Atlas cedar,CEL,CEL OTHER
+InlandEmpire,CEAU,Celtis australis,European hackberry,BDL,BDL OTHER
+InlandEmpire,CECA,Cercis canadensis,Eastern redbud,BDS,BDS OTHER
+InlandEmpire,CEDE,Cedrus deodara,Deodar cedar,CEL,CEL OTHER
+InlandEmpire,CEFL,Parkinsonia florida,Blue paloverde,BDM,BDM OTHER
+InlandEmpire,CEOC,Celtis occidentalis,Northern hackberry,BDL,BDL OTHER
+InlandEmpire,CEOC3,Cercis canadensis var. texensis,Western redbud,BDS,BDS OTHER
+InlandEmpire,CESI3,Ceratonia siliqua,Algarrobo europeo,BEM,BEM OTHER
+InlandEmpire,CESI4,Celtis sinensis,Chinese hackberry,BDL,BDL OTHER
+InlandEmpire,CHHU,Chamaerops humilis,Mediterranean fan palm,PES,PES OTHER
+InlandEmpire,CHLI,Chilopsis linearis,Desert willow,BDS,BDS OTHER
+InlandEmpire,CHRE,Chionanthus retusus,Chinese fringe tree,BDS,BDS OTHER
+InlandEmpire,CHSP,Chorisia speciosa,Palo borracho,BEM,BEM OTHER
+InlandEmpire,CHTA,Chitalpa tashkentensis,Chitalpa,BDS,BDS OTHER
+InlandEmpire,CICA,Cinnamomum camphora,Camphor tree,BEL,CICA
+InlandEmpire,CILI,Citrus limon,Lemon,BES,BES OTHER
+InlandEmpire,CISI,Citrus sinensis,Orange,BES,BES OTHER
+InlandEmpire,COAU,Cordyline australis,Giant dracaena,PES,PES OTHER
+InlandEmpire,COLA,Cocculus laurifolius,Laurel-leafed snailseed,BES,BES OTHER
+InlandEmpire,CRPA,Crinodendron patagua,Patagua,BES,BES OTHER
+InlandEmpire,CRRU,Cryptocarya rubra,Cryptocarya,BES,BES OTHER
+InlandEmpire,CUAN,Cupaniopsis anacardioides,Carrotwood,BES,BES OTHER
+InlandEmpire,CUAR,Cupressus arizonica,Arizona cypress,CEM,CEM OTHER
+InlandEmpire,CULE,x Cupressocyparis leylandii,Leyland cypress,CES,CES OTHER
+InlandEmpire,CUSE,Cupressus sempervirens,Italian cypress,CEL,CEL OTHER
+InlandEmpire,DIVI,Diospyros virginiana,Common persimmon,BDS,BDS OTHER
+InlandEmpire,DOVI,Dodonaea viscosa,Florida hopbush,BES,BES OTHER
+InlandEmpire,ELDE,Elaeocarpus decipiens,Japanese blueberry tree,BDS,BDS OTHER
+InlandEmpire,ERCA,Erythrina caffra,Kaffirboom coral tree,BEL,BEL OTHER
+InlandEmpire,ERDE,Eriobotrya deflexa,Bronze loquat,BES,BES OTHER
+InlandEmpire,ERJA,Eriobotrya japonica,Loquat tree,BES,BES OTHER
+InlandEmpire,EUCA1,Eucalyptus camaldulensis,Red gum eucalyptus,BEL,EUSI
+InlandEmpire,EUCI,Eucalyptus cinerea,Silver dollar eucalyptus,BEM,EUSI
+InlandEmpire,EUCI2,Eucalyptus citriodora,Lemonscented gum,BEL,EUSI
+InlandEmpire,EUCL,Eucalyptus cladocalyx,Sugargum,BEL,EUSI
+InlandEmpire,EUCO3,Eucalyptus cornuta,Yate,BEL,EUSI
+InlandEmpire,EUCR,Eucalyptus crebra,Narrowleaf red ironbark,BEL,EUSI
+InlandEmpire,EUFI81,Eucalyptus ficifolia,Redflower gum,BEL,EUSI
+InlandEmpire,EUGL,Eucalyptus globulus,Blue gum eucalyptus,BEL,EUSI
+InlandEmpire,EUGLCO,Eucalyptus globulus var compacta,Dwarf blue gum,BEL,EUSI
+InlandEmpire,EUGR,Eucalyptus grandis,Flooded gum eucalyptus,BEL,EUSI
+InlandEmpire,EULE,Eucalyptus leucoxylon,White ironbark,BEM,EUSI
+InlandEmpire,EULE2,Eucalyptus lehmannii,Bushy yate,BES,EUSI
+InlandEmpire,EUMA23,Eucalyptus maculata,Spotted gum,BEL,EUSI
+InlandEmpire,EUNI,Eucalyptus nicholii,Willow-leaved gimlet,BEM,EUSI
+InlandEmpire,EUPO,Eucalyptus polyanthemos,Sliver dollar gum eucalyptus,BEL,EUSI
+InlandEmpire,EURO,Eucalyptus robusta,Beakpod euclayptus,BEL,EUSI
+InlandEmpire,EURU,Eucalyptus rudis,Desert gum eucalyptus,BEL,EUSI
+InlandEmpire,EUSI,Eucalyptus sideroxylon,Red ironbark,BEL,EUSI
+InlandEmpire,EUTE,Eucalyptus tereticornis,Horn cap eucalyptus,BEL,EUSI
+InlandEmpire,EUTO11,Eucalyptus torquata,Coral gum,BEM,EUSI
+InlandEmpire,EUVI,Eucalyptus viminalis,Ribbon gum eucalyptus,BEL,EUSI
+InlandEmpire,FICA,Ficus carica,Common fig,BDS,BDS OTHER
+InlandEmpire,FIMA2,Ficus macrophylla,Morton Bay fig,BEL,BEL OTHER
+InlandEmpire,FIMINI,Ficus microcarpa nitida var green gem,Green gem indian laurel fig,BES,BES OTHER
+InlandEmpire,FISI,Firmiana simplex,Chinese parasoltree,BDS,BDS OTHER
+InlandEmpire,FRANR,Fraxinus oxycarpa 'Raywood',Raywood ash,BDM,FRUH
+InlandEmpire,FROR2,Fraxinus oregana,Oregon ash,BDL,FRUH
+InlandEmpire,FRUH,Fraxinus uhdei,Evergreen ash,BDL,FRUH
+InlandEmpire,FRVE,Fraxinus velutina,Velvet ash,BDL,FRUH
+InlandEmpire,FRVEG,Fraxinus velutina 'Modesto',Modesto ash,BDM,FRVEG
+InlandEmpire,GEPA,Geijera parviflora,Wilga; australian willow,BES,BES OTHER
+InlandEmpire,GIBI,Ginkgo biloba,Ginkgo,BDL,GIBI
+InlandEmpire,GLTR,Gleditsia triacanthos,Honeylocust,BDM,BDM OTHER
+InlandEmpire,GRRO,Grevillea robusta,Silk oak,BEL,BEL OTHER
+InlandEmpire,HASU,Hakea suaveolens,Sweet hakea; scented hakea,CES,CES OTHER
+InlandEmpire,HEAR,Heteromeles arbutifolia,Christmasberry,BES,BES OTHER
+InlandEmpire,HYFL,Hymenosporum flavum,Sweetshade; australian fragipani,BES,BES OTHER
+InlandEmpire,ILAL,Ilex altaclarensis,Wilson holly,BES,BES OTHER
+InlandEmpire,ILVO,Ilex vomitoria,Yaupon,BES,BES OTHER
+InlandEmpire,JAMI,Jacaranda mimosifolia,Jacaranda,BDM,JAMI
+InlandEmpire,JUCA2,Juglans californica,Southern california walnut,BDL,BDL OTHER
+InlandEmpire,JUCH,Juniperus chinensis,Chinese juniper,CES,CES OTHER
+InlandEmpire,JURE,Juglans regia,English walnut,BDM,BDM OTHER
+InlandEmpire,KOBI,Koelreuteria bipinnata,Chinese flame tree,BDM,BDM OTHER
+InlandEmpire,KOEL,Koelreuteria elegans,Flamegold,BDM,BDM OTHER
+InlandEmpire,KOPA,Koelreuteria paniculata,Goldenrain tree,BDS,BDS OTHER
+InlandEmpire,LAIN,Lagerstroemia indica,Common crapemyrtle,BDS,LAIN
+InlandEmpire,LANO,Laurus nobilis,Laurel de olor,BEM,BEM OTHER
+InlandEmpire,LELA12,Leptospermum laevigata,Coastal teatree,BES,BES OTHER
+InlandEmpire,LIFO,Liquidambar formosana,Chinese sweet gum,BDM,LIST
+InlandEmpire,LILU,Ligustrum lucidum,Chinese privet,BEM,BEM OTHER
+InlandEmpire,LIOV,Ligustrum ovalifolium,California privet,BES,BES OTHER
+InlandEmpire,LIST,Liquidambar styraciflua,Sweetgum,BDL,LIST
+InlandEmpire,LITU,Liriodendron tulipifera,Tulip tree,BDL,LITU
+InlandEmpire,LYAS,Lyonothamnus f. asplenifol,Fernleaf catalina ironwood,BEM,BEM OTHER
+InlandEmpire,MA2,Malus species,Apple,BDS,BDS OTHER
+InlandEmpire,MABO,Maytenus boaria,Mayten,BEM,BEM OTHER
+InlandEmpire,MAFL80,Malus floribunda,Japanese flowering crabapple,BDS,BDS OTHER
+InlandEmpire,MAGR,Magnolia grandiflora,Southern magnolia,BEM,MAGR
+InlandEmpire,MALA6,Malosma laurina,Laurel sumac,BDS,BDS OTHER
+InlandEmpire,MASO,Magnolia x soulangiana,Chinese magnolia; Saucer magnolia,BDS,MAGR
+InlandEmpire,MASY2,Malus sylvestris,Common crabapple,BDS,BDS OTHER
+InlandEmpire,MATE,Macadamia tetraphylla,Rough-shell macadamia,BES,BES OTHER
+InlandEmpire,MATI,Machaerium tipu,Tipa,BDS,BDS OTHER
+InlandEmpire,MEAZ,Melia azedarach,Chinaberry,BDM,BDM OTHER
+InlandEmpire,MEGL,Metasequoia glyptostroboides,Dawn redwood,BDL,BDL OTHER
+InlandEmpire,MELI7,Melaleuca linariifolia,Cajeput tree,BES,BES OTHER
+InlandEmpire,MEQU,Melaleuca quinquenervia,Cajeput tree,BEM,BEM OTHER
+InlandEmpire,MOAL,Morus alba,White mulberry,BDL,BDL OTHER
+InlandEmpire,MORU,Morus rubra,Red mulberry,BDM,BDM OTHER
+InlandEmpire,NEOL,Nerium oleander,Oleander,BES,BES OTHER
+InlandEmpire,OLEU,Olea europaea,Olive,BES,BES OTHER
+InlandEmpire,OLEU2,Olea europaea 'Swan Hill',Swan hill olive,BES,BES OTHER
+InlandEmpire,PAAC,Parkinsonia aculeata,Jerusalem thorn,BDM,BDM OTHER
+InlandEmpire,PEAM,Persea americana,Avocado,BDS,BDS OTHER
+InlandEmpire,PHCA,Phoenix canariensis,Canary island date palm,PEL,PEL OTHER
+InlandEmpire,PHDA4,Phoenix dactylifera,Date palm,PEM,PEM OTHER
+InlandEmpire,PHFR,Photinia x fraseri,Fraser photinia,BES,BES OTHER
+InlandEmpire,PHRO,Phoenix roebelenii,Pygmy date palm,PEM,PEM OTHER
+InlandEmpire,PIAT,Pinus attenuata,Knobcone pine,CEL,CEL OTHER
+InlandEmpire,PIBR2,Pinus brutia,Turkish pine; east mediterranean pine,CEM,PIBR2
+InlandEmpire,PICA,Pinus canariensis,Canary island pine,CEL,PICA
+InlandEmpire,PICH,Pistacia chinensis,Chinese pistache,BDM,PICH
+InlandEmpire,PICO2,Pinus coulteri,Coulter pine,CEL,CEL OTHER
+InlandEmpire,PICO5,Pinus contorta var. bolanderi,Bolander beach pine,CES,PICO5
+InlandEmpire,PIED,Pinus edulis,Pinyon pine,CES,CES OTHER
+InlandEmpire,PIEL2,Pinus eldarica,Afghan pine,CEL,CEL OTHER
+InlandEmpire,PIHA,Pinus halepensis,Aleppo pine,CEL,CEL OTHER
+InlandEmpire,PIMU2,Pinus muricata,Bishop pine,CEM,CEM OTHER
+InlandEmpire,PINI,Pinus nigra,Austrian pine,CEL,CEL OTHER
+InlandEmpire,PIPH2,Pittosporum phillyraeoides,Pittosporum willow,BES,BES OTHER
+InlandEmpire,PIPI2,Pinus pinea,Itailian stone pine,CEL,CEL OTHER
+InlandEmpire,PIPU,Picea pungens,Blue spruce,CEL,CEL OTHER
+InlandEmpire,PIRA,Pinus radiata,Montery pine,CEL,CEL OTHER
+InlandEmpire,PIRH,Pittosporum rhombifolium,Queensland pittosporum,BEM,BEM OTHER
+InlandEmpire,PIRO,Pinus roxburghii,Chir pine,CEL,CEL OTHER
+InlandEmpire,PITA,Pinus taeda,Loblolly pine,CEL,CEL OTHER
+InlandEmpire,PITH,Pinus thunbergiana,Japanese black pine,CES,CES OTHER
+InlandEmpire,PITO,Pittosporum tobira,Japanese pittosporum,BEM,BEM OTHER
+InlandEmpire,PITO2,Pinus torreyana,Torrey pine,CEL,CEL OTHER
+InlandEmpire,PIUN,Pittosporum undulatum,Victorian box,BEM,BEM OTHER
+InlandEmpire,PIVI5,Pittosporum viridiflorum,Cape cheesewood,BEM,BEM OTHER
+InlandEmpire,PLAC,Platanus hybrida,London planetree,BDL,PLAC
+InlandEmpire,PLOC,Platanus occidentalis,American sycamore,BDL,PLRA
+InlandEmpire,PLRA,Platanus racemosa,California sycamore,BDL,PLRA
+InlandEmpire,POCA2,Populus x canadensis,Carolina poplar,BDL,BDL OTHER
+InlandEmpire,POGR2,Podocarpus gracilior,Fern pine,BEL,BEL OTHER
+InlandEmpire,POMA,Podocarpus macrophyllus,Yew podocarpus,BES,BES OTHER
+InlandEmpire,PONI,Populus nigra,Black poplar,BDL,BDL OTHER
+InlandEmpire,PRAR,Prunus armeniaca,Apricot,BDS,BDS OTHER
+InlandEmpire,PRBL,Prunus blieriana,Blierana plum,BDS,BDS OTHER
+InlandEmpire,PRCA,Prunus caroliniana,Carolina laurelcherry,BES,BES OTHER
+InlandEmpire,PRCE,Prunus cerasifera,Cherry plum,BDS,BDS OTHER
+InlandEmpire,PRCEKV,Prunus cerasifera 'Krauter Vesuvius',Krauter vesuvius plum,BDS,BDS OTHER
+InlandEmpire,PRCH,Prosopis chilensis,Algarrobo,BDM,BDM OTHER
+InlandEmpire,PRDO,Prunus domestica,Common plum,BDS,BDS OTHER
+InlandEmpire,PRDU,Prunus dulcis,Sweet almond,BDS,BDS OTHER
+InlandEmpire,PRIL,Prunus ilicifolia,Hollyleaf cherry,BDS,BDS OTHER
+InlandEmpire,PRLY,Prunus ilicifolia ssp. lyonii,Catalina cherry,BDS,BDS OTHER
+InlandEmpire,PRPE2,Prunus persica,Peach,BDS,BDS OTHER
+InlandEmpire,PRSE2,Prunus serrulata,Kwanzan cherry,BDS,BDS OTHER
+InlandEmpire,PSME,Pseudotsuga menziesii,Douglas fir,CEL,CEL OTHER
+InlandEmpire,PTST,Pterocarya stenoptera,Chinese wingnut,BDL,BDL OTHER
+InlandEmpire,PUGR,Punica granatum,Pomegranate,BDS,BDS OTHER
+InlandEmpire,PYCA,Pyrus calleryana,Callery pear,BDM,PYCA
+InlandEmpire,PYCA_A,Pyrus calleryana 'Aristocrat',Callery pear 'Aristocrat',BDM,PYCA
+InlandEmpire,PYCA_B,Pyrus calleryana 'Bradford',Callery pear 'Bradford',BDM,PYCA
+InlandEmpire,PYKA,Pyrus kawakamii,Evergreen pear,BES,BES OTHER
+InlandEmpire,QUAG,Quercus agrifolia,Coastal live oak; California live oak,BEL,QUAG
+InlandEmpire,QUCO,Quercus coccinea,Scarlet oak,BDL,QUAG
+InlandEmpire,QUEN,Quercus engelmannii,Engelmann oak,BDM,QUAG
+InlandEmpire,QUIL2,Quercus ilex,Roble negro,BEL,QUIL2
+InlandEmpire,QUKE,Quercus kelloggii,California black oak,BEL,QUAG
+InlandEmpire,QULO,Quercus lobata,California white oak,BDL,QUAG
+InlandEmpire,QUPA,Quercus palustris,Pin oak,BDL,QUAG
+InlandEmpire,QURO,Quercus robur,English oak,BDL,QUAG
+InlandEmpire,QURU,Quercus rubra,Northern red oak,BDL,QUAG
+InlandEmpire,QUSU,Quercus suber,Cork oak,BEL,QUAG
+InlandEmpire,QUVI,Quercus virginiana,Live oak,BEL,QUAG
+InlandEmpire,RHIN,Rhus integrifolia,Lemonade berry,BDS,BDS OTHER
+InlandEmpire,ROAMI,Robinia x ambigua 'Idahoenis',Idaho locust,BDM,BDM OTHER
+InlandEmpire,ROPS,Robinia pseudoacacia,Black locust,BDL,BDL OTHER
+InlandEmpire,SAALT,Salix alba 'Tristis',Golden weeping willow,BDL,BDL OTHER
+InlandEmpire,SACANE,Sambucus caerulea var neomexicana,Neomexican blue elderberry,BDS,BDS OTHER
+InlandEmpire,SAMA,Salix matsudana,Corkscrew willow,BDL,BDL OTHER
+InlandEmpire,SCMO,Schinus molle,California peppertree,BEM,SCMO
+InlandEmpire,SCPO,Schinus polygamus,Huingan,BES,SCMO
+InlandEmpire,SCTE,Schinus terebinthifolius,Brazilian pepper,BES,SCTE
+InlandEmpire,SECO9,Senna corymbosa,Argentine senna,BES,BES OTHER
+InlandEmpire,SEGI,Sequoiadendron giganteum,Giant sequoia,CEL,CEL OTHER
+InlandEmpire,SESE,Sequoia sempervirens,Coast redwood,CEL,CEL OTHER
+InlandEmpire,SOJA,Sophora japonica,Japanese pagoda tree,BDM,BDM OTHER
+InlandEmpire,STSI,Stenocarpus sinuatus,Firewheel tree,BES,BES OTHER
+InlandEmpire,SYPA2,Syzygium paniculatum,Brush cherry,BEM,BEM OTHER
+InlandEmpire,TAAV,Tabebuia avellanedae,Ipe-roxo,BES,BES OTHER
+InlandEmpire,TACH3,Tabebuia chrysotricha,Ipe-amarelo,BES,BES OTHER
+InlandEmpire,THOC,Thuja occidentalis,Northern white cedar,CEL,CEL OTHER
+InlandEmpire,THOR,Platycladus orientalis,Oriental arbor vitae,CES,CES OTHER
+InlandEmpire,TRAC,Trithrinax acanthocoma,Brizilian needle palm,PES,PES OTHER
+InlandEmpire,TRCO,Tristaniopsis conferta,Brisbane box,BES,BES OTHER
+InlandEmpire,TRFO,Trachycarpus fortunei,Windmill palm,PES,PES OTHER
+InlandEmpire,TRSE6,Triadica sebifera,Tallowtree,BDM,BDM OTHER
+InlandEmpire,ULAM,Ulmus americana,American elm,BDL,BDL OTHER
+InlandEmpire,ULPA,Ulmus parvifolia,Chinese elm,BEL,BEL OTHER
+InlandEmpire,ULPU,Ulmus pumila,Siberian elm,BEL,BEL OTHER
+InlandEmpire,UMCA,Umbellularia californica,California laurel,BEL,BEL OTHER
+InlandEmpire,WAFI,Washingtonia filifera,California palm,PES,PES OTHER
+InlandEmpire,WARO,Washingtonia robusta,Mexican fan palm,PES,WARO
+InlandEmpire,XYCO,Xylosma congestum,Shiny xylosma,PES,PES OTHER
+InlandEmpire,YUGL2,Yucca gloriosa,Moundlily yucca,PES,PES OTHER
+InlandEmpire,YUGU,Yucca guatemalensis,Bluestem yucca,PES,PES OTHER
+InlandEmpire,ZESE,Zelkova serrata,Japanese zelkova,BDL,BDL OTHER
+InlandEmpire,ZESE_V,Zelkova serrata 'Village Green',Japanese zelkova 'Village Green',BDL,BDL OTHER
+InlandEmpire,BDL OTHER,Broadleaf Deciduous Large,BDL OTHER,BDL,FRUH
+InlandEmpire,BDM OTHER,Broadleaf Deciduous Medium,BDM OTHER,BDM,PYCA
+InlandEmpire,BDS OTHER,Broadleaf Deciduous Small,BDS OTHER,BDS,LAIN
+InlandEmpire,BEL OTHER,Broadleaf Evergreen Large,BEL OTHER,BEL,CICA
+InlandEmpire,BEM OTHER,Broadleaf Evergreen Medium,BEM OTHER,BEM,MAGR
+InlandEmpire,BES OTHER,Broadleaf Evergreen Small,BES OTHER,BES,SCTE
+InlandEmpire,CEL OTHER,Conifer Evergreen Large,CEL OTHER,CEL,PICA
+InlandEmpire,CEM OTHER,Conifer Evergreen Medium,CEM OTHER,CEM,PIBR2
+InlandEmpire,CES OTHER,Conifer Evergreen Small,CES OTHER,CES,PICO5
+InlandEmpire,PEL OTHER,Palm Evergreen Large,PEL OTHER,PEL,PHCA
+InlandEmpire,PEM OTHER,Palm Evergreen Medium,PEM OTHER,PEM,PHDA4
+InlandEmpire,PES OTHER,Palm Evergreen Small,PES OTHER,PES,WARO
+SoCalCoast,AC,Acer  species,Maple,BDL,BDL OTHER
+SoCalCoast,ACBA2,Acacia baileyana,Bailey acacia,BEM,BEM OTHER
+SoCalCoast,ACDE,Acacia decurrens,Green acacia,BEM,BEM OTHER
+SoCalCoast,ACLO,Acacia longifolia,Sydney golden wattle,BEM,BEM OTHER
+SoCalCoast,ACME,Acacia melanoxylon,Black acacia,BEL,BEL OTHER
+SoCalCoast,ACPA,Acer palmatum,Japanese maple,BDL,BDL OTHER
+SoCalCoast,ACRU,Acer rubrum,Red maple,BDL,BDL OTHER
+SoCalCoast,ACSA1,Acer saccharinum,Silver maple,BDL,BDL OTHER
+SoCalCoast,AGFL,Agonis flexuosa,Peppermint tree; astralian willow myrtle,BES,BES OTHER
+SoCalCoast,ALCO2,Alnus cordata,Italian alder,BDM,BDM OTHER
+SoCalCoast,ALJU,Albizia julibrissin,Mimosa,BDS,BDS OTHER
+SoCalCoast,ALRH,Alnus rhombifolia,White alder,BDM,BDM OTHER
+SoCalCoast,ANCH4,Annona cherimola,Cherimoya,BES,BES OTHER
+SoCalCoast,ARBI,Araucaria bidwillii,Bunya bunya,CEL,CEL OTHER
+SoCalCoast,ARCO24,Araucaria columnaris,Coral reef araucaria,CEL,CEL OTHER
+SoCalCoast,ARCU,Archontophoenix cunninghamiana,King palm,PES,PES OTHER
+SoCalCoast,ARHE,Araucaria heterophylla,NCN,CEL,CEL OTHER
+SoCalCoast,ARRO,Arecastrum romanzoffianum,Queen palm,PES,WARO
+SoCalCoast,ARUN,Arbutus unedo,Strawberry tree,BES,BES OTHER
+SoCalCoast,BAVA,Bauhinia variegata,Mountain ebony,BDS,BDS OTHER
+SoCalCoast,BE,Betula  species,Birch,BDM,BDM OTHER
+SoCalCoast,BEPE,Betula pendula,European white birch,BDM,BDM OTHER
+SoCalCoast,BR,Brahea  species,Palm(brahea),PES,PES OTHER
+SoCalCoast,BRAC,Schefflera actinophylla,Schefflera,BES,BES OTHER
+SoCalCoast,BRAR,Brahea armata,Mexican blue palm,PES,PES OTHER
+SoCalCoast,BRED,Brahea edulis,Guadalupe palm,PES,PES OTHER
+SoCalCoast,BRPA,Broussonetia papyrifera,Paper mulberry,BDM,BDM OTHER
+SoCalCoast,BRPO,Brachychiton populneum,Kurrajong,BEM,CICA
+SoCalCoast,BUCA,Butia capitata,Jelly palm,PES,PES OTHER
+SoCalCoast,CA4,Castanea  species,Chestnut,BDL,BDL OTHER
+SoCalCoast,CACA3,Calodendrum capense,Cape chesnut,BEM,BEM OTHER
+SoCalCoast,CACI,Callistemon citrinus,Lemon bottlebrush,BES,CACI
+SoCalCoast,CACU8,Casuarina cunninghamiana,River sheoak,CEL,CEDE
+SoCalCoast,CADE2,Calocedrus decurrens,Incense cedar,CEL,CEL OTHER
+SoCalCoast,CAED,Casimiroa edulis,White sapote,BEL,BEL OTHER
+SoCalCoast,CAEX,Cassia excelsa,Crown of gold tree,BES,BES OTHER
+SoCalCoast,CALE,Cassia leptophylla,Gold medallion tree,BES,BES OTHER
+SoCalCoast,CAST,Casuarina stricta,Coast beefwood,CEL,CEL OTHER
+SoCalCoast,CATW,Calliandra tweedii,Trinidad flame bush,BES,BES OTHER
+SoCalCoast,CAVI,Callistemon viminalis,Weeping bottlebrush,BES,BES OTHER
+SoCalCoast,CE2,Celtis  species,Hackberry,BDL,BDL OTHER
+SoCalCoast,CEAT,Cedrus atlantica,Atlas cedar,CEL,CEDE
+SoCalCoast,CECA,Cercis canadensis,Eastern redbud,BDS,BDS OTHER
+SoCalCoast,CEDE,Cedrus deodara,Deodar cedar,CEL,CEDE
+SoCalCoast,CESI3,Ceratonia siliqua,Algarrobo europeo,BEM,CESI3
+SoCalCoast,CH,Chamaecyparis  species,Cedar,CEL,CEL OTHER
+SoCalCoast,CHHU,Chamaerops humilis,Mediterranean fan palm,PES,PES OTHER
+SoCalCoast,CHSP,Chorisia speciosa,Palo borracho,BEM,BEM OTHER
+SoCalCoast,CICA,Cinnamomum camphora,Camphor tree,BEM,CICA
+SoCalCoast,CILI,Citrus limon,Lemon,BES,BES OTHER
+SoCalCoast,CISI,Citrus sinensis,Orange,BES,BES OTHER
+SoCalCoast,COAU,Cordyline australis,Giant dracaena,PES,PES OTHER
+SoCalCoast,COLA,Cocculus laurifolius,Laurel-leafed snailseed,BES,BES OTHER
+SoCalCoast,COLA18,Cotoneaster lacteus,Milkflower cotoneaster,BES,BES OTHER
+SoCalCoast,CRJA,Cryptomeria japonica,Japanese red cedar,CEL,CEL OTHER
+SoCalCoast,CU,Cupressus  species,Cypress,CEL,CEL OTHER
+SoCalCoast,CUAN,Cupaniopsis anacardioides,Carrotwood,BES,CUAN
+SoCalCoast,CULE,x Cupressocyparis leylandii,Leyland cypress,CES,CES OTHER
+SoCalCoast,CUMA,Cupressus macrocarpa,Monterey cypress,CEL,CEL OTHER
+SoCalCoast,CUSE,Cupressus sempervirens,Italian cypress,CEL,CEL OTHER
+SoCalCoast,CYRE11,Cycas revoluta,Sago palm,CES,CES OTHER
+SoCalCoast,DIVI,Diospyros virginiana,Common persimmon,BDS,BDS OTHER
+SoCalCoast,DOVI,Dodonaea viscosa,Florida hopbush,BES,BES OTHER
+SoCalCoast,DRDR,Dracaena draco,Dragon tree,PES,PES OTHER
+SoCalCoast,DUER,Duranta erecta,Golden dewdrops,BES,BES OTHER
+SoCalCoast,ERBI,Erythrina bidwillii,Bidwill's coral tree,BEL,BEL OTHER
+SoCalCoast,ERCA,Erythrina caffra,Kaffirboom coral tree,BEL,BEL OTHER
+SoCalCoast,ERCO,Erythrina coralloides,Naked coral tree,BEL,BEL OTHER
+SoCalCoast,ERDE,Eriobotrya deflexa,Bronze loquat,BES,BES OTHER
+SoCalCoast,ERJA,Eriobotrya japonica,Loquat tree,BES,BES OTHER
+SoCalCoast,ERLY,Erythrina lysistemon,Lysistemon coral tree,BEL,BEL OTHER
+SoCalCoast,EU1,Eucalyptus  species,Gum,BEL,BEL OTHER
+SoCalCoast,EUCA1,Eucalyptus camaldulensis,Red gum eucalyptus,BEL,BEL OTHER
+SoCalCoast,EUCI,Eucalyptus cinerea,Silver dollar eucalyptus,BEM,BEM OTHER
+SoCalCoast,EUCI2,Eucalyptus citriodora,Lemonscented gum,BEL,BEL OTHER
+SoCalCoast,EUCL,Eucalyptus cladocalyx,Sugargum,BEL,BEL OTHER
+SoCalCoast,EUCO24,Euphorbia cotinifolia,Mexican shrubby spurge,BES,BES OTHER
+SoCalCoast,EUCO3,Eucalyptus cornuta,Yate,BEL,BEL OTHER
+SoCalCoast,EUER,Eucalyptus erythrocorys,Red-cap gum,BEM,BEM OTHER
+SoCalCoast,EUFI81,Eucalyptus ficifolia,Redflower gum,BEL,EUFI81
+SoCalCoast,EUGL,Eucalyptus globulus,Blue gum eucalyptus,BEL,BEL OTHER
+SoCalCoast,EUGR,Eucalyptus grandis,Flooded gum eucalyptus,BEL,BEL OTHER
+SoCalCoast,EULE,Eucalyptus leucoxylon,White ironbark,BEM,BEM OTHER
+SoCalCoast,EUMA23,Eucalyptus maculata,Spotted gum,BEL,BEL OTHER
+SoCalCoast,EUNI,Eucalyptus nicholii,Willow-leaved gimlet,BEM,BEM OTHER
+SoCalCoast,EUPO,Eucalyptus polyanthemos,Sliver dollar gum eucalyptus,BEL,BEL OTHER
+SoCalCoast,EURU,Eucalyptus rudis,Desert gum eucalyptus,BEL,BEL OTHER
+SoCalCoast,EUSI,Eucalyptus sideroxylon,Red ironbark,BEL,BEL OTHER
+SoCalCoast,EUSM,Eugenia smithii,Lilly-pilly tree,BES,BES OTHER
+SoCalCoast,EUTO11,Eucalyptus torquata,Coral gum,BEM,BEM OTHER
+SoCalCoast,EUVI,Eucalyptus viminalis,Ribbon gum eucalyptus,BEL,BEL OTHER
+SoCalCoast,FESE,Feijoa sellowiana,Pineapple guava,BES,BES OTHER
+SoCalCoast,FI1,Ficus  species,Fig,BEM,BEM OTHER
+SoCalCoast,FIAL5,Ficus binnendijkii,Alii ficus,BES,BES OTHER
+SoCalCoast,FIBE,Ficus benjamina,Bejamin fig,BEM,BEM OTHER
+SoCalCoast,FICA,Ficus carica,Common fig,BDS,BDS OTHER
+SoCalCoast,FIEL,Ficus elastica,Rubber plant,BEM,BEM OTHER
+SoCalCoast,FILY,Ficus lyrata,Fiddle leaf fig,BES,BES OTHER
+SoCalCoast,FIMA2,Ficus macrophylla,Morton Bay fig,BEL,BEL OTHER
+SoCalCoast,FIMI,Ficus thonningii,Figueira benjamin,BEM,FIMI
+SoCalCoast,FIRU,Ficus rubiginosa,Rustyleaf fig,BEM,BEM OTHER
+SoCalCoast,FIWA,Ficus watkinsiana,Watkins fig,BEL,BEL OTHER
+SoCalCoast,FRUH,Fraxinus uhdei,Evergreen ash,BEL,BEL OTHER
+SoCalCoast,FRVE,Fraxinus velutina,Velvet ash,BEL,BEL OTHER
+SoCalCoast,GEPA,Geijera parviflora,Wilga; australian willow,BES,BES OTHER
+SoCalCoast,GIBI,Ginkgo biloba,Ginkgo,BDM,BDM OTHER
+SoCalCoast,GRRO,Grevillea robusta,Silk oak,BEL,BEL OTHER
+SoCalCoast,HACA3,Harpephyllum caffrum,Kaffir plum,BES,BES OTHER
+SoCalCoast,HALA,Hakea laurina,Pincushion tree,BES,BES OTHER
+SoCalCoast,ILAL,Ilex altaclarensis,Wilson holly,BES,BES OTHER
+SoCalCoast,JAMI,Jacaranda mimosifolia,Jacaranda,BDS,JAMI
+SoCalCoast,JUCH,Juniperus chinensis,Chinese juniper,CES,CES OTHER
+SoCalCoast,JUHI,Juglans hindsii,Hind walnut,BDL,BDL OTHER
+SoCalCoast,KOBI,Koelreuteria bipinnata,Chinese flame tree,BDM,BDM OTHER
+SoCalCoast,LAIN,Lagerstroemia indica,Common crapemyrtle,BDS,BDS OTHER
+SoCalCoast,LAPA,Lagunaria patersonii,Primrose tree; cow itch tree,BEM,BEM OTHER
+SoCalCoast,LE14,Leptospermum  species,Teatree,BES,BES OTHER
+SoCalCoast,LILU,Ligustrum lucidum,Chinese privet,BEM,BEM OTHER
+SoCalCoast,LIOR,Liquidambar orientalis,Oriental sweetgum,BDM,BDM OTHER
+SoCalCoast,LIST,Liquidambar styraciflua,Sweetgum,BDM,LIST
+SoCalCoast,LITU,Liriodendron tulipifera,Tulip tree,BDL,BDL OTHER
+SoCalCoast,MABO,Maytenus boaria,Mait…n,BEM,BEM OTHER
+SoCalCoast,MAGR,Magnolia grandiflora,Southern magnolia,BEM,MAGR
+SoCalCoast,MASY2,Malus sylvestris,Apple,BDS,BDS OTHER
+SoCalCoast,MATE,Macadamia tetraphylla,Rough-shell macadamia,BES,BES OTHER
+SoCalCoast,MATI,Machaerium tipu,Tipa,BDS,BDS OTHER
+SoCalCoast,MEAR,Melaleuca armillaris,Drooping melaleuca,BES,BES OTHER
+SoCalCoast,MEEX,Metrosideros excelsus,New zealand christmas tree,BEM,MEEX
+SoCalCoast,MENE,Melaleuca nesophila,Pink melaleuca,BES,BES OTHER
+SoCalCoast,MEQU,Melaleuca quinquenervia,Cajeput tree,BEM,MEQU
+SoCalCoast,MOAL,Morus alba,White mulberry,BDL,BDL OTHER
+SoCalCoast,MU5,Musa  species,Banana,BES,BES OTHER
+SoCalCoast,MYCO,Myrtus communis,Myrtle,BES,BES OTHER
+SoCalCoast,MYLA,Myoporum laetum,Mioporo,BES,BES OTHER
+SoCalCoast,NEOL,Nerium oleander,Oleander,BES,CACI
+SoCalCoast,OLEU,Olea europaea,Olive,BES,BES OTHER
+SoCalCoast,PALO8,Paraserianthes lophantha,Plume albizia,BDS,BDS OTHER
+SoCalCoast,PEAM,Persea americana,Avocado,BDS,BDS OTHER
+SoCalCoast,PEBO,Persea borbonia,Redbay,BDS,BDS OTHER
+SoCalCoast,PHCA,Phoenix canariensis,Canary island date palm,PEL,PHCA
+SoCalCoast,PHDA4,Phoenix dactylifera,Date palm,PEM,PHDA4
+SoCalCoast,PHRE,Phoenix reclinata,Senegal date palm,PEM,PEM OTHER
+SoCalCoast,PHRO,Phoenix roebelenii,Pygmy date palm,PEM,PEM OTHER
+SoCalCoast,PI1,Picea  species,Spruce,CEL,CEL OTHER
+SoCalCoast,PIBR2,Pinus brutia,Turkish pine; east mediterranean pine,CEM,PIBR2
+SoCalCoast,PICA,Pinus canariensis,Canary island pine,CEL,PICA
+SoCalCoast,PICO5,Pinus contorta 'bolanderi',Bolander beach pine,CES,PICO5
+SoCalCoast,PICR,Pittosporum crassifolium,Stiffleaf cheesewood,BEM,BEM OTHER
+SoCalCoast,PIDE,Pinus densiflora,Japanese red pine,CEL,CEL OTHER
+SoCalCoast,PIED,Pinus edulis,Pinyon pine,CES,CES OTHER
+SoCalCoast,PIHA,Pinus halepensis,Aleppo pine,CEL,CEL OTHER
+SoCalCoast,PIPI2,Pinus pinea,Itailian stone pine,CEL,CEL OTHER
+SoCalCoast,PIPI6,Pinus pinaster,Maritime pine,CEL,CEL OTHER
+SoCalCoast,PIRA,Pinus radiata,Montery pine,CEL,CEL OTHER
+SoCalCoast,PIRH,Pittosporum rhombifolium,Queensland pittosporum,BEM,BEM OTHER
+SoCalCoast,PITH,Pinus thunbergiana,Japanese black pine,CES,CES OTHER
+SoCalCoast,PITO,Pittosporum tobira,Japanese pittosporum,BEM,BEM OTHER
+SoCalCoast,PITO2,Pinus torreyana,Torrey pine,CEL,CEL OTHER
+SoCalCoast,PIUN,Pittosporum undulatum,Victorian box,BEM,PIUN
+SoCalCoast,PIVI5,Pittosporum viridiflorum,Cape cheesewood,BEM,BEM OTHER
+SoCalCoast,PLAC,Platanus hybrida,London planetree,BDL,PLAC
+SoCalCoast,PLRA,Platanus racemosa,California sycamore,BDL,BDL OTHER
+SoCalCoast,POAL,Populus alba,White poplar,BDL,BDL OTHER
+SoCalCoast,POGR2,Podocarpus gracilior,Fern pine,BEL,POMA
+SoCalCoast,POHE2,Podocarpus henkelii,Long-leafed yellowwood,BES,BES OTHER
+SoCalCoast,POMA,Podocarpus macrophyllus,Yew podocarpus,BES,POMA
+SoCalCoast,PONI,Populus nigra,Black poplar,BDL,BDL OTHER
+SoCalCoast,PR,Prunus  species,Plum,BDS,BDS OTHER
+SoCalCoast,PRAM2,Prunus amygdalus,Almendro,BDS,BDS OTHER
+SoCalCoast,PRAR,Prunus armeniaca,Apricot,BDS,BDS OTHER
+SoCalCoast,PRCA,Prunus caroliniana,Carolina laurelcherry,BES,BES OTHER
+SoCalCoast,PRCE,Prunus cerasifera,Cherry plum,BDS,BDS OTHER
+SoCalCoast,PRDO,Prunus domestica,Common plum,BDS,BDS OTHER
+SoCalCoast,PRLY,Prunus ilicifolia ssp. lyonii,Catalina cherry,BDS,BDS OTHER
+SoCalCoast,PRPE2,Prunus persica,Peach,BDS,BDS OTHER
+SoCalCoast,PRSE2,Prunus serrulata,Kwanzan cherry,BDS,BDS OTHER
+SoCalCoast,PSCA,Psidium cattleianum,Strawberry guava,BES,BES OTHER
+SoCalCoast,PSME,Pseudotsuga menziesii,Douglas fir,CEL,CEL OTHER
+SoCalCoast,PYCA,Pyrus calleryana,Callery pear,BES,BES OTHER
+SoCalCoast,PYCO,Pyrus communis,Common pear,BES,BES OTHER
+SoCalCoast,PYKA,Pyrus kawakamii,Evergreen pear,BES,BES OTHER
+SoCalCoast,QUAG,Quercus agrifolia,Coastal live oak; California live oak,BEL,BEL OTHER
+SoCalCoast,QUIL2,Quercus ilex,Roble negro,BEL,BEL OTHER
+SoCalCoast,RARI,Ravenea rivularis,Majesty palm,PES,PES OTHER
+SoCalCoast,ROPS,Robinia pseudoacacia,Black locust,BDL,BDL OTHER
+SoCalCoast,SAMA,Salix matsudana,Corkscrew willow,BDL,BDL OTHER
+SoCalCoast,SAPE12,Salix x pendulina Wenderoth,Wisconsin weeping willow,BDL,BDL OTHER
+SoCalCoast,SCMO,Schinus molle,California peppertree,BEM,BEM OTHER
+SoCalCoast,SCTE,Schinus terebinthifolius,Brazilian pepper,BES,SCTE
+SoCalCoast,SESE,Sequoia sempervirens,Coast redwood,CEL,CEL OTHER
+SoCalCoast,STNI,Strelitzia nicolai,Bird of paradise tree,BES,BES OTHER
+SoCalCoast,STSI,Stenocarpus sinuatus,Firewheel tree,BES,BES OTHER
+SoCalCoast,SYPA2,Syzygium paniculatum,Brush cherry,BEM,BEM OTHER
+SoCalCoast,TAMU,Taxodium mucronatum,Montezuma cypress,BDL,BDL OTHER
+SoCalCoast,THOR,Platycladus orientalis,Oriental arbor vitae,CES,CES OTHER
+SoCalCoast,THPE3,Thevetia peruviana,Luckynut,BES,BES OTHER
+SoCalCoast,TRCO,Tristaniopsis conferta,Brisbane box,BES,TRCO
+SoCalCoast,TRFO,Trachycarpus fortunei,Windmill palm,PES,PES OTHER
+SoCalCoast,TRLA,Tristaniopsis laurina,Water gum; kanooka,BES,BES OTHER
+SoCalCoast,TUCA,Tupidanthus calyptratus,Tupidanthus,BES,BES OTHER
+SoCalCoast,ULPA,Ulmus parvifolia,Chinese elm,BEL,BEL OTHER
+SoCalCoast,ULPU,Ulmus pumila,Siberian elm,BEL,BEL OTHER
+SoCalCoast,VITI2,Viburnum tinus,Laurustinus,BES,BES OTHER
+SoCalCoast,WAFI,Washingtonia filifera,California palm,PES,WARO
+SoCalCoast,WARO,Washingtonia robusta,Mexican fan palm,PES,WARO
+SoCalCoast,XYCO,Xylosma congestum,Shiny xylosma,PES,PES OTHER
+SoCalCoast,YU1,Yucca  species,Yucca,PES,PES OTHER
+SoCalCoast,YUGL2,Yucca gloriosa,Moundlily yucca,PES,PES OTHER
+SoCalCoast,YUGU,Yucca guatemalensis,Bluestem yucca,PES,PES OTHER
+SoCalCoast,EULE2,Eucalyptus lehmannii,Bushy yate,BES,BES OTHER
+SoCalCoast,EUOC9,Eucalyptus occidentalis,Flat-top yate,BEL,BEL OTHER
+SoCalCoast,FIRE4,Ficus retusa ssp. nitida,Indian laurel fig,BEM,BEM OTHER
+SoCalCoast,FISI,Firmiana simplex,Chinese parasoltree,BDM,BDM OTHER
+SoCalCoast,FRMA6,Fraxinus malacophylla,Ash,BDM,BDM OTHER
+SoCalCoast,ACBU,Acer buergerianum,Trident maple,BDS,BDS OTHER
+SoCalCoast,ACNE,Acer negundo,Boxelder,BDL,BDL OTHER
+SoCalCoast,ACOB,Acer oblongum,Evergreen maple,BDS,BDS OTHER
+SoCalCoast,ACPE1,Acacia pendula,Weeping myall,BDL,BDL OTHER
+SoCalCoast,ALEX,Alectryon excelsus,Titoki,BES,BES OTHER
+SoCalCoast,BABL,Bauhinia x blakeana,Blake's bauhinia,BES,BES OTHER
+SoCalCoast,BAPU,Bauhinia purpurea,Orchid tree,BES,BES OTHER
+SoCalCoast,BENI,Betula nigra,River birch,BDM,BDM OTHER
+SoCalCoast,BERE,Beaucarnea recurvata,Pony-tail palm,PES,PES OTHER
+SoCalCoast,BIJA,Bischofia javanica,Toog,BEL,BEL OTHER
+SoCalCoast,BR1,Brachychiton  species,Brachychiton,BDM,BDM OTHER
+SoCalCoast,BRAC2,Brachychiton acerifolium,Arbol de la llama,BDM,BDM OTHER
+SoCalCoast,BROC,Brachychiton populneum,Kurrajong,BEM,BEM OTHER
+SoCalCoast,CA52,Casuarina  species,Sheoak,CEL,CEL OTHER
+SoCalCoast,CASA5,Callistemon salignus,White bottlebrush,BES,BES OTHER
+SoCalCoast,CASP11,Caesalpinia spinosa,Spiny holdback,BES,BES OTHER
+SoCalCoast,CEFI2,Cedrela fissilis,Brazilian cedar wood,BDM,BDM OTHER
+SoCalCoast,CEOC3,Cercis occidentalis,Western redbud,BDS,BDS OTHER
+SoCalCoast,CRPA,Crinodendron patagua,Patagua,BDS,BDS OTHER
+SoCalCoast,CRRU,Cryptocarya rubra,Cryptocarya,BES,BES OTHER
+SoCalCoast,ERFA,Erythrina falcata,Corticeira-da-serra,BEM,BEM OTHER
+SoCalCoast,ERHU4,Erythrina humeana,Natal coral tree,BDS,BDS OTHER
+SoCalCoast,EUCA,Eucalyptus calophylla,Redgum,BEL,BEL OTHER
+SoCalCoast,HACA4,Harpephyllum caffrum,Kaffir plum,BES,BES OTHER
+SoCalCoast,HASU,Hakea suaveolens,Sweet hakea; Scented hakea,CES,CES OTHER
+SoCalCoast,HEAR,Heteromeles arbutifolia,Christmasberry,BES,BES OTHER
+SoCalCoast,HIRO-SI,Hibiscus rosa-sinensis,Chinese hibiscus,BES,BES OTHER
+SoCalCoast,HOFO,Howea forsteriana,Forster sentry palm,PEM,PEM OTHER
+SoCalCoast,HYFL,Hymenosporum flavum,Sweetshade; Australian fragipani,BES,BES OTHER
+SoCalCoast,JURE,Juglans regia,English walnut,BDM,BDM OTHER
+SoCalCoast,KOPA,Koelreuteria paniculata,Goldenrain tree,BDM,BDM OTHER
+SoCalCoast,LELA12,Leptospermum laevigata,Coastal teatree,BES,BES OTHER
+SoCalCoast,LIAU9,Livistona australis,Australian fan palm,BDM,BDM OTHER
+SoCalCoast,MAFL80,Malus floribunda,Japanese flowering crabapple,BDS,BDS OTHER
+SoCalCoast,MAIN8,Macadamia integrifolia,Macadamia nut,BES,BES OTHER
+SoCalCoast,MALU4,Markhamia lutea,Siala,BDS,BDS OTHER
+SoCalCoast,MAPU,Malus sylvestris,Apple,BDS,BDS OTHER
+SoCalCoast,MASO,Magnolia x soulangiana,Chinese magnolia; Saucer magnolia,BDS,BDS OTHER
+SoCalCoast,MEBR9,Melaleuca bracteata,River teatree,BES,BES OTHER
+SoCalCoast,MEST,Melaleuca styphelioides,Melaleuca,BEM,BEM OTHER
+SoCalCoast,PEIN17,Persea indica,Indian bay,BES,BES OTHER
+SoCalCoast,PHFR,Photinia x fraseri,Fraser photinia,BES,BES OTHER
+SoCalCoast,PICH,Pistacia chinensis,Chinese pistache,BDM,BDM OTHER
+SoCalCoast,PIRO,Pinus roxburghii,Chir pine,BES,BES OTHER
+SoCalCoast,PRCA2,Prunus campanulata,Taiwan cherry,BDS,BDS OTHER
+SoCalCoast,PRDU,Prunus amygdalus,Almendro,BDS,BDS OTHER
+SoCalCoast,QURU,Quercus rubra,Northern red oak,BDL,BDL OTHER
+SoCalCoast,QUSA2,Quillaja saponaria,Quillay,BES,BES OTHER
+SoCalCoast,QUSU,Quercus suber,Cork oak,BEL,BEL OTHER
+SoCalCoast,QUVI,Quercus virginiana,Live oak,BEL,BEL OTHER
+SoCalCoast,RASA5,Rauvolfia samarensis,Rauvolfia,BEL,BEL OTHER
+SoCalCoast,RHBA7,Rhopalostylis baueri,Norfolk Island palm,PES,PES OTHER
+SoCalCoast,RHLA,Rhus lancea,African sumac,BES,BES OTHER
+SoCalCoast,SASA,Sapindus saponaria,Wingleaf soapberry,BES,BES OTHER
+SoCalCoast,SCPO,Schinus polygamus,Huingan,BES,BES OTHER
+SoCalCoast,SO1,Lycianthes rantonnei,Paraguay nightshade,BES,BES OTHER
+SoCalCoast,SPCA,Spathodea campanulata,African tulip tree,BEL,BEL OTHER
+SoCalCoast,TACH3,Tabebuia chrysotricha,Ipe-amarelo,BDM,BDM OTHER
+SoCalCoast,ULAM,Ulmus americana,American elm,BDL,BDL OTHER
+SoCalCoast,UMCA,Umbellularia californica,California laurel,BEL,BEL OTHER
+SoCalCoast,VILU6,Vitex lucens,Puriri,BEL,BEL OTHER
+SoCalCoast,BDL OTHER,Broadleaf Deciduous Large,Broadleaf Deciduous Large,BDL,PLAC
+SoCalCoast,BDM OTHER,Broadleaf Deciduous Medium,Broadleaf Deciduous Medium,BDM,LIST
+SoCalCoast,BDS OTHER,Broadleaf Deciduous Small,Broadleaf Deciduous Small,BDS,JAMI
+SoCalCoast,BEL OTHER,Broadleaf Evergreen Large,Broadleaf Evergreen Large,BEL,EUFI81
+SoCalCoast,BEM OTHER,Broadleaf Evergreen Medium,Broadleaf Evergreen Medium,BEM,CICA
+SoCalCoast,BES OTHER,Broadleaf Evergreen Small,Broadleaf Evergreen Small,BES,POMA
+SoCalCoast,CEL OTHER,Conifer Evergreen Large,Conifer Evergreen Large,CEL,CEDE
+SoCalCoast,CEM OTHER,Conifer Evergreen Medium,Conifer Evergreen Medium,CEM,PIBR2
+SoCalCoast,CES OTHER,Conifer Evergreen Small,Conifer Evergreen Small,CES,PICO5
+SoCalCoast,PEL OTHER,Palm Evergreen Large,Palm Evergreen Large,PEL,PHCA
+SoCalCoast,PEM OTHER,Palm Evergreen Medium,Palm Evergreen Medium,PEM,PHDA4
+SoCalCoast,PES OTHER,Palm Evergreen Small,Palm Evergreen Small,PES,WARO
+NoCalCoast,AB,Abies  species,Fir,CEL,CEL OTHER
+NoCalCoast,ACBA2,Acacia baileyana,Bailey acacia,BEM,ACME
+NoCalCoast,ACDE2,Acacia dealbata,Aromo del paÕs,BEM,ACME
+NoCalCoast,ACDE,Acacia decurrens,Green acacia,BEM,ACME
+NoCalCoast,ACLO,Acacia longifolia,Sydney golden wattle,BEM,ACME
+NoCalCoast,ACME,Acacia melanoxylon,Black acacia,BEM,ACME
+NoCalCoast,ACVE2,Acacia verticillata,Prickly moses,BES,ACME
+NoCalCoast,ACBU,Acer buergerianum,Trident maple,BDS,BDS OTHER
+NoCalCoast,ACMA,Acer macrophyllum,Bigleaf maple,BDL,BDL OTHER
+NoCalCoast,ACNE,Acer negundo,Boxelder,BDL,BDL OTHER
+NoCalCoast,ACPA,Acer palmatum,Japanese maple,BDS,ACPA
+NoCalCoast,ACPL,Acer platanoides,Norway maple,BDL,BDL OTHER
+NoCalCoast,ACPS,Acer pseudoplatanus,Sycamore maple,BDM,BDM OTHER
+NoCalCoast,ACRU,Acer rubrum,Red maple,BDM,BDM OTHER
+NoCalCoast,ACSA1,Acer saccharinum,Silver maple,BDL,BDL OTHER
+NoCalCoast,ACSA2,Acer saccharum,Sugar maple,BDL,BDL OTHER
+NoCalCoast,AC,Acer  species,Maple,BDM,BDM OTHER
+NoCalCoast,AECA2,Aesculus californica,California buckeye,BES,BES OTHER
+NoCalCoast,AEHI,Aesculus hippocastanum,Horsechestnut,BES,BES OTHER
+NoCalCoast,AGFL,Agonis flexuosa,Peppermint tree,BES,BES OTHER
+NoCalCoast,AIAL,Ailanthus altissima,Tree of heaven,BDM,BDM OTHER
+NoCalCoast,ALJU,Albizia julibrissin,Mimosa,BDM,BDM OTHER
+NoCalCoast,ALCO2,Alnus cordata,Italian alder,BDM,BDM OTHER
+NoCalCoast,ALRH,Alnus rhombifolia,White alder,BDM,BDM OTHER
+NoCalCoast,ALRU2,Alnus rubra,Red alder,BDM,BDM OTHER
+NoCalCoast,ALAR,Aloe arborescens,Tree aloe,PES,PES OTHER
+NoCalCoast,ARHE,Araucaria heterophylla,Araucaria,CEL,CEL OTHER
+NoCalCoast,ARME,Arbutus menziesii,Pacific madrone,BEM,BEM OTHER
+NoCalCoast,ARUN,Arbutus unedo,Strawberry tree,BES,BES OTHER
+NoCalCoast,ARCU,Archontophoenix cunninghamiana,King palm,PES,PES OTHER
+NoCalCoast,ARRO,Arecastrum romanzoffianum,Queen palm,PES,PES OTHER
+NoCalCoast,BEAL2,Betula albo-sinensis,Chinese birch,BDM,BDM OTHER
+NoCalCoast,BENI,Betula nigra,River birch,BDM,BDM OTHER
+NoCalCoast,BEPE,Betula pendula,European white birch,BDM,BDM OTHER
+NoCalCoast,BRED,Brahea edulis,Guadalupe palm,PES,PES OTHER
+NoCalCoast,BRPA,Broussonetia papyrifera,Paper mulberry,BDM,BDM OTHER
+NoCalCoast,BUCA,Butia capitata,Jelly palm,PES,PES OTHER
+NoCalCoast,CACI,Callistemon citrinus,Lemon bottlebrush,BES,BES OTHER
+NoCalCoast,CASA5,Callistemon salignus,White bottlebrush,BES,BES OTHER
+NoCalCoast,CAVI,Callistemon viminalis,Weeping bottlebrush,BES,BES OTHER
+NoCalCoast,CADE2,Calocedrus decurrens,Incense cedar,CEL,CEL OTHER
+NoCalCoast,CACA3,Calodendrum capense,Cape chesnut,BDM,BDM OTHER
+NoCalCoast,CAJA9,Camellia japonica,Camellia,BES,BES OTHER
+NoCalCoast,CABE,Carpinus betulus,European hornbeam,BDM,BDM OTHER
+NoCalCoast,CALE,Cassia leptophylla,Gold medallion tree,BES,BES OTHER
+NoCalCoast,CAEQ,Casuarina equisetifolia,Australian pine,CEL,CEL OTHER
+NoCalCoast,CAER,Catalpa erubescens,Purple toned catalpa,BDM,BDM OTHER
+NoCalCoast,CASP,Catalpa speciosa,Northern catalpa,BDL,BDL OTHER
+NoCalCoast,CETH,Ceanothus thyrsiflorus,Blue blossom,BES,BES OTHER
+NoCalCoast,CEAT,Cedrus atlantica,Atlas cedar,CEL,CEL OTHER
+NoCalCoast,CEDE,Cedrus deodara,Deodar cedar,CEL,CEL OTHER
+NoCalCoast,CEAU,Celtis australis,European hackberry,BDL,BDL OTHER
+NoCalCoast,CEOC,Celtis occidentalis,Northern hackberry,BDL,BDL OTHER
+NoCalCoast,CERE,Celtis reticulata,Western hackberry,BDS,BDS OTHER
+NoCalCoast,CESI4,Celtis sinensis,Chinese hackberry,BDL,BDL OTHER
+NoCalCoast,CESI3,Ceratonia siliqua,Algarrobo europeo,BEM,BEM OTHER
+NoCalCoast,CECA,Cercis canadensis,Eastern redbud,BDS,BDS OTHER
+NoCalCoast,CEOC3,Cercis canadensis var. texensis,Western redbud,BDS,BDS OTHER
+NoCalCoast,CERE2,Cercis reniformis,Southwestern redbud,BDS,BDS OTHER
+NoCalCoast,CHFU,Chamaecyparis funebris,Mourning cypress,CEL,CEL OTHER
+NoCalCoast,CHLA2,Chamaecyparis lawsoniana,Port orford cedar,CEL,CEL OTHER
+NoCalCoast,CHHU,Chamaerops humilis,Mediterranean fan palm,PES,PES OTHER
+NoCalCoast,CHSP,Chorisia speciosa,Palo borracho,CEL,CEL OTHER
+NoCalCoast,CICA,Cinnamomum camphora,Camphor tree,BEM,CICA
+NoCalCoast,CIAU,Citrus aurantifolia,Lime,BES,BES OTHER
+NoCalCoast,CILI,Citrus limon,Lemon,BES,BES OTHER
+NoCalCoast,CISI,Citrus sinensis,Orange,BES,BES OTHER
+NoCalCoast,CIPA,Citrus x paradisi,Grapefruit,BES,BES OTHER
+NoCalCoast,COAU,Cordyline australis,Giant dracaena,PES,PES OTHER
+NoCalCoast,CONU2,Cornus nuttallii,Pacific dogwood,BDM,BDM OTHER
+NoCalCoast,COCO1,Cotinus coggygria,Smoke tree,BDS,BDS OTHER
+NoCalCoast,COBU,Cotoneaster buxifolius,Cotoneaster,BES,BES OTHER
+NoCalCoast,CRDO,Crataegus douglasii,Black hawthorn,BDS,BDS OTHER
+NoCalCoast,CRPH,Crataegus phaenopyrum,Washington hawthorn,BDS,BDS OTHER
+NoCalCoast,CR,Crataegus  species,Hawthorn,BDS,BDS OTHER
+NoCalCoast,CUAN,Cupaniopsis anacardioides,Carrotwood,BES,BES OTHER
+NoCalCoast,CULE,x Cupressocyparis leylandii,Leyland cypress,CEM,CEM OTHER
+NoCalCoast,CUAR,Cupressus arizonica,Arizona cypress,CEM,CEM OTHER
+NoCalCoast,CUMA,Cupressus macrocarpa,Monterey cypress,CEL,CEL OTHER
+NoCalCoast,CUSE,Cupressus sempervirens,Italian cypress,CEM,CEM OTHER
+NoCalCoast,CYSC4,Cytisus scoparius,Scotchbroom,BDS,BDS OTHER
+NoCalCoast,DAIM,Dahlia imperialis,Tree dahlia,BDS,BDS OTHER
+NoCalCoast,DIVI,Diospyros virginiana,Common persimmon,BDS,BDS OTHER
+NoCalCoast,DOVI,Dodonaea viscosa,Florida hopbush,BES,BES OTHER
+NoCalCoast,DRDR,Dracaena draco,Dragon tree,PES,PES OTHER
+NoCalCoast,ERDE,Eriobotrya deflexa,Bronze loquat,BES,BES OTHER
+NoCalCoast,ERJA,Eriobotrya japonica,Loquat tree,BES,BES OTHER
+NoCalCoast,EUCI,Eucalyptus cinerea,Silver dollar eucalyptus,BEM,EUGL
+NoCalCoast,EUCI2,Eucalyptus citriodora,Lemonscented gum,BEL,EUGL
+NoCalCoast,EUFI81,Eucalyptus ficifolia,Redflower gum,BEM,EUGL
+NoCalCoast,EUGL,Eucalyptus globulus,Blue gum eucalyptus,BEL,EUGL
+NoCalCoast,EUGU,Eucalyptus gunnii,Cicer gum eucalyptus,BEL,EUGL
+NoCalCoast,EULE2,Eucalyptus lehmannii,Bushy yate,BES,EUGL
+NoCalCoast,EULE,Eucalyptus leucoxylon,White ironbark,BEM,EUGL
+NoCalCoast,EUMA,Eucalyptus macrocarpa,Bluebush,BES,EUGL
+NoCalCoast,EUNI,Eucalyptus nicholii,Willow-leaved gimlet,BEM,EUGL
+NoCalCoast,EUPA26,Eucalyptus parvula,Kybean gum,BES,EUGL
+NoCalCoast,EUPO,Eucalyptus polyanthemos,Sliver dollar gum eucalyptus,BEL,EUGL
+NoCalCoast,EURU,Eucalyptus rudis,Desert gum eucalyptus,BEL,EUGL
+NoCalCoast,EUSI,Eucalyptus sideroxylon,Red ironbark,BEL,EUGL
+NoCalCoast,EU1,Eucalyptus  species,Gum,BEL,EUGL
+NoCalCoast,EUTO11,Eucalyptus torquata,Coral gum,BES,EUGL
+NoCalCoast,EUNY,Eucryphia x nymansensis,Namansay' eucryphia,BES,BES OTHER
+NoCalCoast,EUPA2,Eugenia paniculata,Brush cherry,BES,BES OTHER
+NoCalCoast,EUSM,Eugenia smithii,Lilly-pilly tree,BES,BES OTHER
+NoCalCoast,FASY,Fagus sylvatica,European beech,BDL,BDL OTHER
+NoCalCoast,FESE,Feijoa sellowiana,Pineapple guava,BES,BES OTHER
+NoCalCoast,FIBE,Ficus benjamina,Benjamin fig,BEM,BEM OTHER
+NoCalCoast,FICA,Ficus carica,Common fig,BDS,BDS OTHER
+NoCalCoast,FIEL,Ficus elastica,Rubber plant,BES,BES OTHER
+NoCalCoast,FIRE4,Ficus retusa ssp. nitida,Indian laurel fig,BEM,BEM OTHER
+NoCalCoast,FRAN2,Fraxinus angustifolia,Raywood ash,BDM,FRVE
+NoCalCoast,FR,Fraxinus  species,Ash,BDM,FRVE
+NoCalCoast,FRUH,Fraxinus uhdei,Evergreen ash,BDL,BDL OTHER
+NoCalCoast,FRVE,Fraxinus velutina,Velvet ash,BDM,FRVE
+NoCalCoast,FRCA6,Fremontodendron californicum,California flannelbush,BES,BES OTHER
+NoCalCoast,FRME2,Fremontodendron mexicanum,Mexican flannelbush,BES,BES OTHER
+NoCalCoast,GAEL,Garrya elliptica,Wavyleaf silktassel,BES,BES OTHER
+NoCalCoast,GEPA,Geijera parviflora,Wilga; australian willow,BEM,BEM OTHER
+NoCalCoast,GIBI,Ginkgo biloba,Ginkgo,BDM,GIBI
+NoCalCoast,GLTR,Gleditsia triacanthos,Honeylocust,BDM,ROPS
+NoCalCoast,GRRO,Grevillea robusta,Silk oak,BEL,BEL OTHER
+NoCalCoast,HASU,Hakea suaveolens,Sweet hakea; scented hakea,CES,CES OTHER
+NoCalCoast,HEAR,Heteromeles arbutifolia,Christmasberry,BES,BES OTHER
+NoCalCoast,HISY,Hibiscus syriacus,Rose-of-sharon,BDS,BDS OTHER
+NoCalCoast,HYFL,Hymenosporum flavum,Sweetshade; Australian fragipani,BES,BES OTHER
+NoCalCoast,ILAL,Ilex altaclarensis,Wilson holly,BES,BES OTHER
+NoCalCoast,ILCO2,Ilex cornuta,Chinese holly,BES,BES OTHER
+NoCalCoast,JAMI,Jacaranda mimosifolia,Jacaranda,BDM,BDM OTHER
+NoCalCoast,JA6,Jasminum  species,Jasmine,BES,BES OTHER
+NoCalCoast,JUNI,Juglans nigra,Black walnut,BDL,BDL OTHER
+NoCalCoast,JURE,Juglans regia,English walnut,BDM,BDM OTHER
+NoCalCoast,JUCA1,Juniperus californica,California juniper,CEM,CEM OTHER
+NoCalCoast,JUCH,Juniperus chinensis,Chinese juniper,CES,CES OTHER
+NoCalCoast,JUOC,Juniperus occidentalis,Western juniper,CEL,CEL OTHER
+NoCalCoast,JU,Juniperus  species,Juniper,CES,CES OTHER
+NoCalCoast,KOBI,Koelreuteria bipinnata,Chinese flame tree,BDM,BDM OTHER
+NoCalCoast,KOEL,Koelreuteria elegans,Flamegold,BDM,BDM OTHER
+NoCalCoast,LAIN,Lagerstroemia indica,Common crapemyrtle,BDS,BDS OTHER
+NoCalCoast,LAPA,Lagunaria patersonii,Primrose tree; cow itch tree,BEM,BEM OTHER
+NoCalCoast,LANO,Laurus nobilis,Laurel de olor,BEM,BEM OTHER
+NoCalCoast,LELA12,Leptospermum laevigata,Coastal teatree,BES,BES OTHER
+NoCalCoast,LIJA,Ligustrum japonicum,Ligustro,BES,BES OTHER
+NoCalCoast,LILU,Ligustrum lucidum,Chinese privet,BEM,BEM OTHER
+NoCalCoast,LIOV,Ligustrum ovalifolium,California privet,BES,BES OTHER
+NoCalCoast,LIFO,Liquidambar formosana,Chinese sweet gum,BDM,BDM OTHER
+NoCalCoast,LIST,Liquidambar styraciflua,Sweetgum,BDM,LIST
+NoCalCoast,LITU,Liriodendron tulipifera,Tulip tree,BDL,LITU
+NoCalCoast,LIDE,Lithocarpus densiflorus,Tanoak,BEL,BEL OTHER
+NoCalCoast,LYRA,Lycianthes rantonnei,Paraguay nightshade,BES,BES OTHER
+NoCalCoast,LYFL,Lyonothamnus floribundus,Lyontree,BEM,BEM OTHER
+NoCalCoast,MATI,Machaerium tipu,Tipa,BDS,BDS OTHER
+NoCalCoast,MAGR,Magnolia grandiflora,Southern magnolia,BEM,MAGR
+NoCalCoast,MASO,Magnolia x soulangiana,Chinese magnolia; Saucer magnolia,BDS,BDS OTHER
+NoCalCoast,MAST,Magnolia stellata,Star magnolia,BDS,BDS OTHER
+NoCalCoast,PYIO,Malus ioensis,Prairie crabapple,BDS,BDS OTHER
+NoCalCoast,MAPU,Malus pumila,Paradise apple,BDS,BDS OTHER
+NoCalCoast,MA2,Malus  species,Apple,BDS,BDS OTHER
+NoCalCoast,MASY2,Malus sylvestris,Common crabapple,BDS,BDS OTHER
+NoCalCoast,MABO,Maytenus boaria,Mayten,BEM,BEM OTHER
+NoCalCoast,MELE,Melaleuca leucadendra,Punk tree,BEM,BEM OTHER
+NoCalCoast,MELI7,Melaleuca linariifolia,Cajeput tree,BES,BES OTHER
+NoCalCoast,MENE,Melaleuca nesophila,Pink melaleuca,BES,BES OTHER
+NoCalCoast,MEQU,Melaleuca quinquenervia,Cajeput ,BEM,BEM OTHER
+NoCalCoast,MEST,Melaleuca styphelioides,Melaleuca,BEM,BEM OTHER
+NoCalCoast,MEAZ,Melia azedarach,Chinaberry,BDM,BDM OTHER
+NoCalCoast,MEGL,Metasequoia glyptostroboides,Dawn redwood,BDL,BDL OTHER
+NoCalCoast,MEEX,Metrosideros excelsus,New zealand christmas tree,BEM,BEM OTHER
+NoCalCoast,MOAR,Montanoa arborescens,Daisy tree,BES,BES OTHER
+NoCalCoast,MYCA,Morella californica,Pacific bayberry,BES,BES OTHER
+NoCalCoast,MOAL,Morus alba,White mulberry,BDM,BDM OTHER
+NoCalCoast,MUPA3,Musa x paradisiaca,French plantain,BES,BES OTHER
+NoCalCoast,MYLA,Myoporum laetum,Mioporo,BES,BES OTHER
+NoCalCoast,NEOL,Nerium oleander,Oleander,BES,BES OTHER
+NoCalCoast,NIGL,Nicotiana glauca,Tree tobacco,BES,BES OTHER
+NoCalCoast,NYSY,Nyssa sylvatica,Black tupelo,BDM,BDM OTHER
+NoCalCoast,OLEU,Olea europaea,Olive,BEM,BEM OTHER
+NoCalCoast,OPFI,Opuntia ficus-indica,Tuna cactus,CES,CES OTHER
+NoCalCoast,OTHER,Other,Other,BDM,BDM OTHER
+NoCalCoast,BR,Brahea  species,Palm(brahea),PES,PES OTHER
+NoCalCoast,PEAM,Persea americana,Avocado,BEM,BEM OTHER
+NoCalCoast,PHCA,Phoenix canariensis,Canary island date palm,PEL,PEL OTHER
+NoCalCoast,PHDA4,Phoenix dactylifera,Date palm,PEL,PEL OTHER
+NoCalCoast,PHRO,Phoenix roebelenii,Pygmy date palm,PES,PES OTHER
+NoCalCoast,PHFR,Photinia x fraseri,Fraser photinia,BES,BES OTHER
+NoCalCoast,PH18,Phyllostachys  species,Bamboo,BES,BES OTHER
+NoCalCoast,PIBR2,Pinus brutia,Turkish pine,CEM,PIBR2
+NoCalCoast,PIPU,Picea pungens,Blue spruce,CEL,CEL OTHER
+NoCalCoast,PICA,Pinus canariensis,Canary island pine,CEL,PIRA
+NoCalCoast,PICE,Pinus cembroides,Mexican pinyon,CES,PIRA
+NoCalCoast,PICO2,Pinus coulteri,Coulter pine,CEL,PIRA
+NoCalCoast,PICO5,Pinus contorta 'bolanderi',Bolander beach pine,CES,PICO5
+NoCalCoast,PIHA,Pinus halepensis,Aleppo pine,CEL,PIRA
+NoCalCoast,PIPA4,Pinus patula,NCN,CEL,PIRA
+NoCalCoast,PIPI2,Pinus pinea,Itailian stone pine,CEL,PIRA
+NoCalCoast,PIRA,Pinus radiata,Monterey pine,CEL,PIRA
+NoCalCoast,PI2,Pinus  species,Pine,CEM,PIRA
+NoCalCoast,PITH,Pinus thunbergiana,Japanese black pine,CEL,PIRA
+NoCalCoast,PITO2,Pinus torreyana,Torrey pine,CEL,PIRA
+NoCalCoast,PICH,Pistacia chinensis,Chinese pistache,BDM,PICH
+NoCalCoast,PICR,Pittosporum crassifolium,Stiffleaf cheesewood,BES,PIUN
+NoCalCoast,PIEU,Pittosporum eugenioides,Tarata,BES,PIUN
+NoCalCoast,PIRH,Pittosporum rhombifolium,Queensland pittosporum,BES,PIUN
+NoCalCoast,PI23,Pittosporum  species,Cheesewood,BES,PIUN
+NoCalCoast,PITO,Pittosporum tobira,Japanese pittosporum,BES,PIUN
+NoCalCoast,PIUN,Pittosporum undulatum,Victorian box,BEM,PIUN
+NoCalCoast,PIVI5,Pittosporum viridiflorum,Cape cheesewood,BES,PIUN
+NoCalCoast,PLAC,Platanus hybrida,London planetree,BDL,PLAC
+NoCalCoast,PLRA,Platanus racemosa,California sycamore,BDL,BDL OTHER
+NoCalCoast,POGR2,Podocarpus gracilior,Fern pine,BEL,BEL OTHER
+NoCalCoast,POMA,Podocarpus macrophyllus,Yew podocarpus,BES,BES OTHER
+NoCalCoast,POAL,Populus alba,White poplar,BDL,BDL OTHER
+NoCalCoast,POBA,Populus balsamifera,Balsam poplar,BDL,BDL OTHER
+NoCalCoast,POFR,Populus fremontii,Fremont cottonwood,BDL,BDL OTHER
+NoCalCoast,PONI,Populus nigra,Black poplar,BDL,BDL OTHER
+NoCalCoast,POTR1,Populus tremuloides,Quaking aspen,BDM,BDM OTHER
+NoCalCoast,PRAM2,Prunus amygdalus,Almendro,BDS,BDS OTHER
+NoCalCoast,PRAR,Prunus armeniaca,Apricot,BDS,BDS OTHER
+NoCalCoast,PRBL,Prunus blieriana,Blierana plum,BDS,BDS OTHER
+NoCalCoast,PRCA,Prunus caroliniana,Carolina laurelcherry,BDS,BDS OTHER
+NoCalCoast,PRCE,Prunus cerasifera,Cherry plum,BDS,PRCE
+NoCalCoast,PRDO,Prunus domestica,Common plum,BDS,BDS OTHER
+NoCalCoast,PRIL,Prunus ilicifolia,Hollyleaf cherry,BDS,BDS OTHER
+NoCalCoast,PRLY,Prunus ilicifolia ssp. lyonii,Catalina cherry,BDS,BDS OTHER
+NoCalCoast,PRPE2,Prunus persica,Peach,BDS,BDS OTHER
+NoCalCoast,PRPI,Prunus pissardii,Purpleleaf plum,BDS,BDS OTHER
+NoCalCoast,PRSE2,Prunus serrulata,Kwanzan cherry,BDS,BDS OTHER
+NoCalCoast,PR,Prunus  species,Plum,BDS,BDS OTHER
+NoCalCoast,PRYE,Prunus yedoensis,Yoshino flowering cherry,BDS,BDS OTHER
+NoCalCoast,PSME,Pseudotsuga menziesii,Douglas fir,CEL,CEL OTHER
+NoCalCoast,PTTR,Ptelea trifoliata,Common hoptree,BDS,BDS OTHER
+NoCalCoast,PYSP,Pyracantha  species,Firethorn,BES,BES OTHER
+NoCalCoast,PYCA,Pyrus calleryana,Callery pear,BDM,PYCA
+NoCalCoast,PYCO,Pyrus communis,Common pear,BDS,BDS OTHER
+NoCalCoast,PYKA,Pyrus kawakamii,Evergreen pear,BES,PYKA
+NoCalCoast,QUAG,Quercus agrifolia,Coastal live oak; California live oak,BEL,QUAG
+NoCalCoast,QUCH,Quercus chrysolepis,Canyon live oak,BEL,QUAG
+NoCalCoast,QUCO,Quercus coccinea,Scarlet oak,BDL,QUAG
+NoCalCoast,QUIL2,Quercus ilex,Roble negro,BEL,QUAG
+NoCalCoast,QUKE,Quercus kelloggii,California black oak,BEL,QUAG
+NoCalCoast,QULO,Quercus lobata,California white oak,BDL,QUAG
+NoCalCoast,QUPA,Quercus palustris,Pin oak,BDL,QUAG
+NoCalCoast,QURO,Quercus robur,English oak,BDL,QUAG
+NoCalCoast,QURU,Quercus rubra,Northern red oak,BDL,QUAG
+NoCalCoast,QU,Quercus  species,Oak,BDL,QUAG
+NoCalCoast,QUSU,Quercus suber,Cork oak,BEL,QUAG
+NoCalCoast,QUVI,Quercus virginiana,Live oak,BEL,QUAG
+NoCalCoast,RHIN2,Rhaphiolepis,Indian hawthorn,BES,BES OTHER
+NoCalCoast,RHSP1,Rhododendron  species,Rhododendron,BES,BES OTHER
+NoCalCoast,RHLA,Rhus lancea,African sumac,BES,BES OTHER
+NoCalCoast,RHOV,Rhus ovata,Sugar sumac,BES,BES OTHER
+NoCalCoast,ROPS,Robinia pseudoacacia,Black locust,BDM,ROPS
+NoCalCoast,SABA,Salix x sepulcralis Simonkai,Weeping willow,BDM,BDM OTHER
+NoCalCoast,SADI,Salix discolor,Pussy willow,BDS,BDS OTHER
+NoCalCoast,SALA1,Salix lasiolepis,Arroya willow,BDS,BDS OTHER
+NoCalCoast,SALU,Salix lucida,Shining willow,BDS,BDS OTHER
+NoCalCoast,SAMA,Salix matsudana,Corkscrew willow,BDM,BDM OTHER
+NoCalCoast,SA,Salix  species,Willow,BDM,BDM OTHER
+NoCalCoast,SA12,Salvia  species,Sage,BDS,BDS OTHER
+NoCalCoast,SACA,Sambucus nigra ssp. canadensis,Common elderberry,BDS,BDS OTHER
+NoCalCoast,SC3,Schefflera  species,Schefflera,BES,BES OTHER
+NoCalCoast,SCMO,Schinus molle,California peppertree,BEM,BEM OTHER
+NoCalCoast,SCPO,Schinus polygamus,Huingan,BES,BES OTHER
+NoCalCoast,SCTE,Schinus terebinthifolius,Brazilian pepper,BES,BES OTHER
+NoCalCoast,SESE,Sequoia sempervirens,Coast redwood,CEL,SESE
+NoCalCoast,SEGI,Sequoiadendron giganteum,Giant sequoia,CEL,CEL OTHER
+NoCalCoast,SETR,Sesbania tripetii,Scarlett wisteria,BDS,BDS OTHER
+NoCalCoast,STNI,Strelitzia nicolai,Bird of paradise tree,BES,BES OTHER
+NoCalCoast,SYRE,Syringa reticulata,Japanese tree lilac,BDS,BDS OTHER
+NoCalCoast,TAIM,Tabebuia impetiginosa,Pink trumpet tree,BES,BES OTHER
+NoCalCoast,TACH2,Tamarix chinensis,Fivestamen tamarisk,BDS,BDS OTHER
+NoCalCoast,TABA,Taxus baccata,English yew,BES,BES OTHER
+NoCalCoast,THOC,Thuja occidentalis,Northern white cedar,CEL,CEL OTHER
+NoCalCoast,THPL,Thuja plicata,Western red cedar,CEL,CEL OTHER
+NoCalCoast,TIUR,Tibouchina urvilleana,Princess-flower,BES,BES OTHER
+NoCalCoast,TICO,Tilia cordata,Littleleaf linden,BDM,BDM OTHER
+NoCalCoast,TIEU,Tilia x vulgaris,Common linden,BDM,BDM OTHER
+NoCalCoast,TRFO,Trachycarpus fortunei,Windmill palm,PES,PES OTHER
+NoCalCoast,TRSE6,Triadica sebifera,Tallowtree,BDM,BDM OTHER
+NoCalCoast,TRCO,Tristaniopsis conferta,Brisbane box,BEL,BEL OTHER
+NoCalCoast,TRLA,Tristaniopsis laurina,Water gum; kanooka,BES,BES OTHER
+NoCalCoast,ULAM,Ulmus americana,American elm,BDL,ULAM
+NoCalCoast,ULPA,Ulmus parvifolia,Chinese elm,BDL,ULPA
+NoCalCoast,ULPU,Ulmus pumila,Siberian elm,BDL,ULAM
+NoCalCoast,UMCA,Umbellularia californica,California laurel,BEL,BEL OTHER
+NoCalCoast,VIJA,Viburnum japonicum,Japanese viburnum,BES,BES OTHER
+NoCalCoast,WAFI,Washingtonia filifera,California palm,PES,PES OTHER
+NoCalCoast,WARO,Washingtonia robusta,Mexican fan palm,PES,WARO
+NoCalCoast,XYCO,Xylosma congestum,Shiny xylosma,BES,BES OTHER
+NoCalCoast,YUAL,Yucca aloifolia,Aloe yucca,PES,PES OTHER
+NoCalCoast,YUGL2,Yucca gloriosa,Moundlily yucca,PES,PES OTHER
+NoCalCoast,YURE,Yucca recurvifolia,Curveleaf yucca,PES,PES OTHER
+NoCalCoast,YUTO,Yucca torreyi,Torrey yucca,PES,PES OTHER
+NoCalCoast,ZESE,Zelkova serrata,Japanese zelkova,BDL,BDL OTHER
+NoCalCoast,BDL OTHER,Broadleaf Deciduous Large,Broadleaf Deciduous Large,BDL,ULAM
+NoCalCoast,BDM OTHER,Broadleaf Deciduous Medium,Broadleaf Deciduous Medium,BDM,FRVE
+NoCalCoast,BDS OTHER,Broadleaf Deciduous Small,Broadleaf Deciduous Small,BDS,PRCE
+NoCalCoast,BEL OTHER,Broadleaf Evergreen Large,Broadleaf Evergreen Large,BEL,QUAG
+NoCalCoast,BEM OTHER,Broadleaf Evergreen Medium,Broadleaf Evergreen Medium,BEM,CICA
+NoCalCoast,BES OTHER,Broadleaf Evergreen Small,Broadleaf Evergreen Small,BES,PYKA
+NoCalCoast,CEL OTHER,Conifer Evergreen Large,Conifer Evergreen Large,CEL,PIRA
+NoCalCoast,CEM OTHER,Conifer Evergreen Medium,Conifer Evergreen Medium,CEM,PIBR2
+NoCalCoast,CES OTHER,Conifer Evergreen Small,Conifer Evergreen Small,CES,PICO5
+NoCalCoast,PEL OTHER,Palm Evergreen Large,Palm Evergreen Large,PEL,PHCA
+NoCalCoast,PEM OTHER,Palm Evergreen Medium,Palm Evergreen Medium,PEM,PHDA4
+NoCalCoast,PES OTHER,Palm Evergreen Small,Palm Evergreen Small,PES,WARO

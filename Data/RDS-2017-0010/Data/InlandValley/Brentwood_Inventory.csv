@@ -1,0 +1,602 @@
+Id.x,SpCode,DBH,StreetName,StreetNumber,City,Botanic Name,Common Name,Tree Type
+1,AC,3,CLIFFWOOD AV,356,Brentwood,Acer species,Maple,BDM
+2,ACSP2,2,AVONDALE AVE,118,Brentwood,Acacia melanoxylon,Black acacia,BEL
+3,ACSP2,2,AVONDALE AVE,118,Brentwood,Acacia melanoxylon,Black acacia,BEL
+4,ACSP2,1,MAYFIELD AVE,11944,Brentwood,Acacia retinodes,water wattle,BES
+5,ACSP2,1,AVONDALE AVE,112,Brentwood,Acacia retinodes,water wattle,BES
+6,ALJU,3,KIOWA AVE,11901,Brentwood,Albizia julibrissin,Mimosa; Silk tree,BDS
+7,PHDA4,2,KEIL ST,11338,Brentwood,Archontophoenix cunninghamiana,King palm,PES
+8,PHDA4,2,KEIL ST,11338,Brentwood,Archontophoenix cunninghamiana,King palm,PES
+9,PHDA4,3,DOROTHY ST,12228,Brentwood,Archontophoenix cunninghamiana,King palm,PES
+10,PYCA_B,1,SUNSET BLVD,11690,Brentwood,Arbutus unedo,Strawberry tree,BEM
+11,BEPE,2,DOROTHY ST,12314,Brentwood,Betula species,Birch,BDM
+12,BRED,6,BUNDY AV,731,Brentwood,Brahea armata,Mexican blue palm,PES
+13,BRED,6,BUNDY AV,730,Brentwood,Brahea armata,Mexican blue palm,PES
+14,BRED,6,BUNDY AV,730,Brentwood,Brahea armata,Mexican blue palm,PES
+15,BRED,3,BUNDY AV,731,Brentwood,Brahea armata,Mexican blue palm,PES
+16,BRED,4,DOROTHY ST,12245,Brentwood,Brahea brandegeei,SAN JOSE HESPER PALM,PES
+17,MAGR,3,26TH ST,801,Brentwood,Brachychiton populneus,Bottletree; Kurrajong,BEM
+18,MAGR,2,26TH ST,801,Brentwood,Brachychiton populneus,Bottletree; Kurrajong,BEM
+19,MAGR,2,26TH ST,811,Brentwood,Brachychiton populneus,Bottletree; Kurrajong,BEM
+20,MAGR,3,MONTANA AVE,2612,Brentwood,Brachychiton populneus,Bottletree; Kurrajong,BEM
+21,MAGR,1,MONTANA AVE,2618,Brentwood,Brachychiton populneus,Bottletree; Kurrajong,BEM
+22,MAGR,3,MONTANA AVE,2618,Brentwood,Brachychiton populneus,Bottletree; Kurrajong,BEM
+23,MAGR,3,MONTANA AVE,2622,Brentwood,Brachychiton populneus,Bottletree; Kurrajong,BEM
+24,MAGR,3,MONTANA AVE,2622,Brentwood,Brachychiton populneus,Bottletree; Kurrajong,BEM
+25,MAGR,4,MONTANA AVE,2626,Brentwood,Brachychiton populneus,Bottletree; Kurrajong,BEM
+26,MAGR,3,MONTANA AVE,2626,Brentwood,Brachychiton populneus,Bottletree; Kurrajong,BEM
+27,MAGR,3,MONTANA AVE,2632,Brentwood,Brachychiton populneus,Bottletree; Kurrajong,BEM
+28,MAGR,4,MONTANA AVE,2704,Brentwood,Brachychiton populneus,Bottletree; Kurrajong,BEM
+29,MAGR,2,MONTANA AVE,2704,Brentwood,Brachychiton populneus,Bottletree; Kurrajong,BEM
+30,MAGR,4,MONTANA AVE,2704,Brentwood,Brachychiton populneus,Bottletree; Kurrajong,BEM
+31,MAGR,3,MONTANA AVE,2704,Brentwood,Brachychiton populneus,Bottletree; Kurrajong,BEM
+32,MAGR,3,MONTANA AVE,2712,Brentwood,Brachychiton populneus,Bottletree; Kurrajong,BEM
+33,MAGR,4,MONTANA AVE,2716,Brentwood,Brachychiton populneus,Bottletree; Kurrajong,BEM
+34,MAGR,3,MONTANA AVE,2722,Brentwood,Brachychiton populneus,Bottletree; Kurrajong,BEM
+35,MAGR,3,MONTANA AVE,2722,Brentwood,Brachychiton populneus,Bottletree; Kurrajong,BEM
+36,MAGR,1,MONTANA AVE,2726,Brentwood,Brachychiton populneus,Bottletree; Kurrajong,BEM
+37,MAGR,3,MONTANA AVE,2726,Brentwood,Brachychiton populneus,Bottletree; Kurrajong,BEM
+38,MAGR,4,BURLINGAME AVE,802,Brentwood,Brachychiton populneus,Bottletree; Kurrajong,BEM
+39,CACI,1,1ST HELENA DR,364,Brentwood,Callistemon citrinus,Lemon bottlebrush,BES
+40,CACI,2,KIOWA AVE,11988,Brentwood,Callistemon citrinus,Lemon bottlebrush,BES
+41,CACI,2,KIOWA AVE,11988,Brentwood,Callistemon citrinus,Lemon bottlebrush,BES
+42,CACI,3,KIOWA AVE,11978,Brentwood,Callistemon citrinus,Lemon bottlebrush,BES
+43,CACI,2,KIOWA AVE,11928,Brentwood,Callistemon citrinus,Lemon bottlebrush,BES
+44,CACI,2,KIOWA AVE,11928,Brentwood,Callistemon citrinus,Lemon bottlebrush,BES
+45,CACI,2,KIOWA AVE,11977,Brentwood,Callistemon citrinus,Lemon bottlebrush,BES
+46,CACI,2,KIOWA AVE,11977,Brentwood,Callistemon citrinus,Lemon bottlebrush,BES
+47,CACI,3,KIOWA AVE,11977,Brentwood,Callistemon citrinus,Lemon bottlebrush,BES
+48,CACI,1,KIOWA AVE,11973,Brentwood,Callistemon citrinus,Lemon bottlebrush,BES
+49,CACI,1,KIOWA AVE,11973,Brentwood,Callistemon citrinus,Lemon bottlebrush,BES
+50,CACI,1,KIOWA AVE,11973,Brentwood,Callistemon citrinus,Lemon bottlebrush,BES
+51,CACI,1,KIOWA AVE,11973,Brentwood,Callistemon citrinus,Lemon bottlebrush,BES
+52,CADE2,2,DOROTHY ST,12244,Brentwood,Calocedrus decurrens,Incense cedar,CEL
+53,CACI,4,KIOWA AVE,11982,Brentwood,Callistemon viminalis,Weeping bottlebrush,BES
+54,CACI,1,KIOWA AVE,11918,Brentwood,Callistemon viminalis,Weeping bottlebrush,BES
+55,CACI,2,KIOWA AVE,11947,Brentwood,Callistemon viminalis,Weeping bottlebrush,BES
+56,CEAT,6,DUNOON LN,12210,Brentwood,Cedrus atlantica,Atlas cedar,CEL
+57,CEAT,4,AYRSHIRE RD,11400,Brentwood,Cedrus atlantica,Atlas cedar,CEL
+58,CEAT,5,DOROTHY ST,12303,Brentwood,Cedrus atlantica,Atlas cedar,CEL
+59,CEAT,5,DOROTHY ST,12303,Brentwood,Cedrus atlantica,Atlas cedar,CEL
+60,CESI3,6,GRENTA GREEN WY,140,Brentwood,Ceratonia siliqua,Algarrobo europeo,BEM
+61,BDS OTHER,2,GOSHEN AVE,12011,Brentwood,Chionanthus retusus,CHINESE FRINGE,BDS
+62,CICA,4,GRENTA GREEN WY,120,Brentwood,Cinnamomum camphora,Camphor tree,BEM
+63,CICA,5,AYRSHIRE RD,11401,Brentwood,Cinnamomum camphora,Camphor tree,BEM
+64,CICA,1,DOROTHY ST,12220,Brentwood,Cinnamomum camphora,Camphor tree,BEM
+65,CICA,1,SAN VICENTE BLVD,11465,Brentwood,Cinnamomum camphora,Camphor tree,BEM
+66,CICA,1,SAN VICENTE BLVD,11465,Brentwood,Cinnamomum camphora,Camphor tree,BEM
+67,CICA,1,SAN VICENTE BLVD,11465,Brentwood,Cinnamomum camphora,Camphor tree,BEM
+68,CICA,1,SAN VICENTE BLVD,11453,Brentwood,Cinnamomum camphora,Camphor tree,BEM
+69,CICA,1,SAN VICENTE BLVD,11453,Brentwood,Cinnamomum camphora,Camphor tree,BEM
+70,CICA,1,SAN VICENTE BLVD,11441,Brentwood,Cinnamomum camphora,Camphor tree,BEM
+71,CICA,1,SAN VICENTE BLVD,11441,Brentwood,Cinnamomum camphora,Camphor tree,BEM
+72,CICA,1,SAN VICENTE BLVD,11441,Brentwood,Cinnamomum camphora,Camphor tree,BEM
+73,CICA,1,W SAN VICENTE BLVD,11600,Brentwood,Cinnamomum camphora,Camphor tree,BEM
+74,CICA,1,W SAN VICENTE BLVD,11600,Brentwood,Cinnamomum camphora,Camphor tree,BEM
+75,CICA,6,KIOWA AVE,11952,Brentwood,Cinnamomum camphora,Camphor tree,BEM
+76,CICA,3,MAYFIELD AVE,11967,Brentwood,Cinnamomum camphora,Camphor tree,BEM
+77,CICA,4,MAYFIELD AVE,11967,Brentwood,Cinnamomum camphora,Camphor tree,BEM
+78,CICA,3,MAYFIELD AVE,11967,Brentwood,Cinnamomum camphora,Camphor tree,BEM
+79,CICA,4,MAYFIELD AVE,11967,Brentwood,Cinnamomum camphora,Camphor tree,BEM
+80,CISP,1,BELOIT AVE,173,Brentwood,Citrus species,CITRUS,BES
+81,CISP,1,BELOIT AVE,173,Brentwood,Citrus species,CITRUS,BES
+82,CISP,1,BELOIT AVE,173,Brentwood,Citrus species,CITRUS,BES
+83,CISP,1,BELOIT AVE,167,Brentwood,Citrus species,CITRUS,BES
+84,CISP,1,BELOIT AVE,167,Brentwood,Citrus species,CITRUS,BES
+85,CISP,1,BERWICK ST,11403,Brentwood,Citrus species,CITRUS,BES
+86,CISP,1,BERWICK ST,11403,Brentwood,Citrus species,CITRUS,BES
+87,CISP,1,BERWICK ST,11403,Brentwood,Citrus species,CITRUS,BES
+88,CISP,1,BERWICK ST,11409,Brentwood,Citrus species,CITRUS,BES
+89,CISP,1,BERWICK ST,11409,Brentwood,Citrus species,CITRUS,BES
+90,CISP,1,BERWICK ST,11427,Brentwood,Citrus species,CITRUS,BES
+91,CISP,2,BERWICK ST,11445,Brentwood,Citrus species,CITRUS,BES
+92,CISP,2,BERWICK ST,11445,Brentwood,Citrus species,CITRUS,BES
+93,CISP,3,BERWICK ST,11445,Brentwood,Citrus species,CITRUS,BES
+94,CISP,1,BERWICK ST,11451,Brentwood,Citrus species,CITRUS,BES
+95,CISP,1,BERWICK ST,11451,Brentwood,Citrus species,CITRUS,BES
+96,CISP,2,BERWICK ST,11426,Brentwood,Citrus species,CITRUS,BES
+97,BES OTHER,1,S WESTGATE AVE,1001,Brentwood,Cryptocarya rubra,Cryptocarya,BES
+98,BES OTHER,2,CLIFFWOOD AV,351,Brentwood,Cryptocarya rubra,Cryptocarya,BES
+99,BEM OTHER,2,MONTANA AVE,11644,Brentwood,Cupaniopsis anacardioides,Carrotwood,BEM
+100,BEM OTHER,2,MONTANA AVE,11636,Brentwood,Cupaniopsis anacardioides,Carrotwood,BEM
+101,BEM OTHER,2,MONTANA AVE,11636,Brentwood,Cupaniopsis anacardioides,Carrotwood,BEM
+102,CUMA,4,CLIFFWOOD AV,304,Brentwood,Cupressus macrocarpa,Monterey cypress,CEL
+103,CUMA,2,GORHAM AVE,11684,Brentwood,Cupressus macrocarpa,Monterey cypress,CEL
+104,CUMA,1,KIOWA AVE,11973,Brentwood,Cupressus macrocarpa,Monterey cypress,CEL
+105,CUMA,1,KIOWA AVE,11973,Brentwood,Cupressus macrocarpa,Monterey cypress,CEL
+106,CUMA,1,KIOWA AVE,11973,Brentwood,Cupressus macrocarpa,Monterey cypress,CEL
+107,CUMA,1,KIOWA AVE,11973,Brentwood,Cupressus macrocarpa,Monterey cypress,CEL
+108,CUMA,1,KIOWA AVE,11973,Brentwood,Cupressus macrocarpa,Monterey cypress,CEL
+109,PES OTHER,5,GORHAM AVE,11622,Brentwood,Unknown,Unknown,PES OTHER
+110,BDM OTHER,1,CLIFFWOOD AV,301,Brentwood,UNKNOWN,DO NOT KNOW,BDM OTHER
+111,BDM OTHER,1,CLIFFWOOD AV,301,Brentwood,UNKNOWN,DO NOT KNOW,BDM OTHER
+112,BDM OTHER,3,DOROTHY ST,12331,Brentwood,UNKNOWN,DO NOT KNOW,BDM OTHER
+113,BDM OTHER,1,DOROTHY ST,12327,Brentwood,UNKNOWN,DO NOT KNOW,BDM OTHER
+114,BDM OTHER,4,DOROTHY ST,12307,Brentwood,UNKNOWN,DO NOT KNOW,BDM OTHER
+115,BDM OTHER,4,DOROTHY ST,12307,Brentwood,UNKNOWN,DO NOT KNOW,BDM OTHER
+116,BDM OTHER,4,DOROTHY ST,12303,Brentwood,UNKNOWN,DO NOT KNOW,BDM OTHER
+117,BDM OTHER,1,AVONDALE AV,403,Brentwood,UNKNOWN,DO NOT KNOW,BDM OTHER
+118,BDM OTHER,1,AVONDALE AV,403,Brentwood,UNKNOWN,DO NOT KNOW,BDM OTHER
+119,BDM OTHER,1,AVONDALE AV,403,Brentwood,UNKNOWN,DO NOT KNOW,BDM OTHER
+120,BDM OTHER,1,AVONDALE AV,403,Brentwood,UNKNOWN,DO NOT KNOW,BDM OTHER
+121,BDM OTHER,1,KENTER AV,143,Brentwood,UNKNOWN,DO NOT KNOW,BDM OTHER
+122,BDM OTHER,1,KENTER AV,143,Brentwood,UNKNOWN,DO NOT KNOW,BDM OTHER
+123,BDM OTHER,1,KENTER AV,143,Brentwood,UNKNOWN,DO NOT KNOW,BDM OTHER
+124,BDM OTHER,1,KENTER AV,143,Brentwood,UNKNOWN,DO NOT KNOW,BDM OTHER
+125,BDM OTHER,1,KENTER AV,143,Brentwood,UNKNOWN,DO NOT KNOW,BDM OTHER
+126,BDM OTHER,1,KENTER AV,143,Brentwood,UNKNOWN,DO NOT KNOW,BDM OTHER
+127,BDM OTHER,2,KENTER AV,319,Brentwood,UNKNOWN,DO NOT KNOW,BDM OTHER
+128,BDM OTHER,2,KENTER AV,319,Brentwood,UNKNOWN,DO NOT KNOW,BDM OTHER
+129,BDM OTHER,4,DOROTHY ST,12310,Brentwood,UNKNOWN,DO NOT KNOW,BDM OTHER
+130,BDM OTHER,1,WELLESLEY AV,900,Brentwood,UNKNOWN,DO NOT KNOW,BDM OTHER
+131,BDM OTHER,3,DOROTHY ST,12215,Brentwood,UNKNOWN,DO NOT KNOW,BDM OTHER
+132,BDM OTHER,2,DOROTHY ST,12215,Brentwood,UNKNOWN,DO NOT KNOW,BDM OTHER
+133,BDM OTHER,2,GOSHEN AVE,12036,Brentwood,UNKNOWN,DO NOT KNOW,BDM OTHER
+134,BDM OTHER,2,GOSHEN AVE,12000,Brentwood,UNKNOWN,DO NOT KNOW,BDM OTHER
+135,BDM OTHER,1,GOSHEN AVE,12000,Brentwood,UNKNOWN,DO NOT KNOW,BDM OTHER
+136,BDM OTHER,3,GOSHEN AVE,11915,Brentwood,UNKNOWN,DO NOT KNOW,BDM OTHER
+137,BDM OTHER,4,GORHAM AVE,11617,Brentwood,UNKNOWN,DO NOT KNOW,BDM OTHER
+138,BDM OTHER,3,CURRITUCK DR,11931,Brentwood,UNKNOWN,DO NOT KNOW,BDM OTHER
+139,BDM OTHER,3,KIOWA AVE,11901,Brentwood,UNKNOWN,DO NOT KNOW,BDM OTHER
+140,BDM OTHER,4,KIOWA AVE,11915,Brentwood,UNKNOWN,DO NOT KNOW,BDM OTHER
+141,BDM OTHER,6,KIOWA AVE,11939,Brentwood,UNKNOWN,DO NOT KNOW,BDM OTHER
+142,BDM OTHER,1,KIOWA AVE,11973,Brentwood,UNKNOWN,DO NOT KNOW,BDM OTHER
+143,BDM OTHER,1,KIOWA AVE,11973,Brentwood,UNKNOWN,DO NOT KNOW,BDM OTHER
+144,BDM OTHER,4,MAYFIELD AVE,11980,Brentwood,UNKNOWN,DO NOT KNOW,BDM OTHER
+145,BDM OTHER,6,MAYFIELD AVE,11910,Brentwood,UNKNOWN,DO NOT KNOW,BDM OTHER
+146,BDM OTHER,1,MAYFIELD AVE,11908,Brentwood,UNKNOWN,DO NOT KNOW,BDM OTHER
+147,BDM OTHER,6,MAYFIELD AVE,11973,Brentwood,UNKNOWN,DO NOT KNOW,BDM OTHER
+148,BDM OTHER,1,MONTANA AVE,11656,Brentwood,UNKNOWN,DO NOT KNOW,BDM OTHER
+149,BDM OTHER,2,MONTANA AVE,11656,Brentwood,UNKNOWN,DO NOT KNOW,BDM OTHER
+150,BDM OTHER,2,MONTANA AVE,11625,Brentwood,UNKNOWN,DO NOT KNOW,BDM OTHER
+151,BDM OTHER,1,AVONDALE AVE,0,Brentwood,UNKNOWN,DO NOT KNOW,BDM OTHER
+152,BDM OTHER,1,MONTANA AVE,102,Brentwood,UNKNOWN,DO NOT KNOW,BDM OTHER
+153,BDM OTHER,1,MONTANA AVE,101,Brentwood,UNKNOWN,DO NOT KNOW,BDM OTHER
+154,BDM OTHER,6,SUNSET BLVD,11750,Brentwood,Erythrina species,CORAL TREE,BDL
+155,BDM OTHER,6,SUNSET BLVD,11750,Brentwood,Erythrina species,CORAL TREE,BDL
+156,BDM OTHER,6,SUNSET BLVD,11750,Brentwood,Erythrina species,CORAL TREE,BDL
+157,BDM OTHER,6,SUNSET BLVD,11750,Brentwood,Erythrina species,CORAL TREE,BDL
+158,BDM OTHER,6,SUNSET BLVD,11750,Brentwood,Erythrina species,CORAL TREE,BDL
+159,BDM OTHER,4,SAN VICENTE BLVD,1041,Brentwood,Erythrina species,CORAL TREE,BDL
+160,BDM OTHER,2,SAN VICENTE BLVD,1041,Brentwood,Erythrina species,CORAL TREE,BDL
+161,BDM OTHER,6,SAN VICENTE BLVD,1041,Brentwood,Erythrina species,CORAL TREE,BDL
+162,BDM OTHER,3,SAN VICENTE BLVD,1041,Brentwood,Erythrina species,CORAL TREE,BDL
+163,EU1,6,MAYFIELD AVE,11973,Brentwood,Corymbia calophylla,Redgum,BEL
+164,EU1,2,CHURCH LN,11332,Brentwood,Corymbia calophylla,Redgum,BEL
+165,EU1,3,SAN VICENTE BLVD,11440,Brentwood,Eucalyptus species,GUM TREE,BEL
+166,EU1,5,SAN VICENTE BLVD,11440,Brentwood,Eucalyptus species,GUM TREE,BEL
+167,EU1,3,SAN VICENTE BLVD,11440,Brentwood,Eucalyptus species,GUM TREE,BEL
+168,EU1,3,SAN VICENTE BLVD,11454,Brentwood,Eucalyptus species,GUM TREE,BEL
+169,EU1,4,SAN VICENTE BLVD,11466,Brentwood,Eucalyptus species,GUM TREE,BEL
+170,EU1,3,GOSHEN AVE,11901,Brentwood,Eucalyptus species,GUM TREE,BEL
+171,EU1,5,GOSHEN AVE,12043,Brentwood,Eucalyptus species,GUM TREE,BEL
+172,EU1,3,CURRITUCK DR,11931,Brentwood,Eucalyptus species,GUM TREE,BEL
+173,EUPO,6,GRETNA GREEN WY,325,Brentwood,Eucalyptus ficifolia,Redflower gum,BEM
+174,EUPO,6,GRETNA GREEN WY,325,Brentwood,Eucalyptus ficifolia,Redflower gum,BEM
+175,EUPO,3,DOROTHY ST,12315,Brentwood,Eucalyptus ficifolia,Redflower gum,BEM
+176,EUPO,3,DOROTHY ST,12315,Brentwood,Eucalyptus ficifolia,Redflower gum,BEM
+177,LAIN,2,DUNSTAN WAY,11620,Brentwood,Eugenia smithii,Lilly-pilly tree,BES
+178,EU1,4,S BUNDY DR,1007,Brentwood,Eucalyptus leucoxylon,White ironbark,BEL
+179,EU1,6,MAYFIELD AVE,11910,Brentwood,Eucalyptus leucoxylon,White ironbark,BEL
+180,EU1,6,KENTER AV,301,Brentwood,Eucalyptus leucoxylon,White ironbark,BEL
+181,EU1,6,AVONDALE AVE,122,Brentwood,Eucalyptus sideroxylon,Red ironbark,BEL
+182,MAGR,5,BARRINGTON CT,11625,Brentwood,Ficus species,Chinese banyan,BEM
+183,MAGR,5,BARRINGTON CT,11636,Brentwood,Ficus species,Chinese banyan,BEM
+184,MAGR,2,SUNSET BLVD,11960,Brentwood,Ficus species,FICUS,BEM
+185,MAGR,5,SUNSET BLVD,11559,Brentwood,Ficus species,FICUS,BEM
+186,MAGR,4,SUNSET BLVD,11559,Brentwood,Ficus species,FICUS,BEM
+187,MAGR,3,CLIFFWOOD AV,351,Brentwood,Ficus species,FICUS,BEM
+188,MAGR,1,EVANSTON ST,12916,Brentwood,Ficus species,FICUS,BEM
+189,MAGR,2,EVANSTON ST,12916,Brentwood,Ficus species,FICUS,BEM
+190,MAGR,2,EVANSTON ST,12916,Brentwood,Ficus species,FICUS,BEM
+191,MAGR,1,EVANSTON ST,12916,Brentwood,Ficus species,FICUS,BEM
+192,MAGR,2,EVANSTON ST,12916,Brentwood,Ficus species,FICUS,BEM
+193,MAGR,2,SUNSET BLVD,12435,Brentwood,Ficus species,FICUS,BEM
+194,MAGR,4,SAN VICENTE BLVD,11466,Brentwood,Ficus species,FICUS,BEM
+195,MAGR,2,SAN VICENTE BLVD,11454,Brentwood,Ficus species,FICUS,BEM
+196,MAGR,2,SAN VICENTE BLVD,11454,Brentwood,Ficus species,FICUS,BEM
+197,MAGR,3,SAN VICENTE BLVD,11440,Brentwood,Ficus species,FICUS,BEM
+198,MAGR,3,SAN VICENTE BLVD,11440,Brentwood,Ficus species,FICUS,BEM
+199,MAGR,4,GOSHEN AVE,11946,Brentwood,Ficus species,FICUS,BEM
+200,MAGR,4,GOSHEN AVE,11946,Brentwood,Ficus species,FICUS,BEM
+201,MAGR,2,GORHAM AVE,11601,Brentwood,Ficus species,FICUS,BEM
+202,MAGR,2,GORHAM AVE,11601,Brentwood,Ficus species,FICUS,BEM
+203,MAGR,1,GORHAM AVE,11670,Brentwood,Ficus species,FICUS,BEM
+204,MAGR,3,WILSHIRE BLVD,11601,Brentwood,Ficus species,FICUS,BEM
+205,MAGR,3,WILSHIRE BLVD,11601,Brentwood,Ficus species,FICUS,BEM
+206,MAGR,3,WILSHIRE BLVD,111601,Brentwood,Ficus species,FICUS,BEM
+207,MAGR,3,WILSHIRE BLVD,11601,Brentwood,Ficus species,FICUS,BEM
+208,MAGR,3,WILSHIRE BLVD,11601,Brentwood,Ficus species,FICUS,BEM
+209,MAGR,2,KIOWA AVE,11969,Brentwood,Ficus species,FICUS,BEM
+210,MAGR,1,KIOWA AVE,11969,Brentwood,Ficus species,FICUS,BEM
+211,MAGR,1,MAYFIELD AVE,11944,Brentwood,Ficus species,FICUS,BEM
+212,MAGR,1,MAYFIELD AVE,11944,Brentwood,Ficus species,FICUS,BEM
+213,MAGR,1,MAYFIELD AVE,11944,Brentwood,Ficus species,FICUS,BEM
+214,MAGR,2,AVONDALE AVE,122,Brentwood,Ficus species,FICUS,BEM
+215,MAGR,4,BELOIT AVE,191,Brentwood,Ficus species,FICUS,BEM
+216,MAGR,1,MAYFIELD AVE,11944,Brentwood,Ficus species,FICUS,BEM
+217,MAGR,1,MAYFIELD AVE,11944,Brentwood,Ficus species,FICUS,BEM
+218,MAGR,1,MAYFIELD AVE,11944,Brentwood,Ficus species,FICUS,BEM
+219,MAGR,5,CHURCH LN,11332,Brentwood,Ficus species,FICUS,BEM
+220,GIBI,1,AVONDALE AVE,252,Brentwood,Ginkgo biloba,Ginkgo,BDL
+221,GRRO,4,DUNSTAN WAY,11601,Brentwood,Grevillea robusta,Silk oak,BEL
+222,GRRO,4,DUNSTAN WAY,11601,Brentwood,Grevillea robusta,Silk oak,BEL
+223,BDM OTHER,1,CURRITUCK DR,11930,Brentwood,Unknown,Unknown,BDM OTHER
+224,BDM OTHER,1,CURRITUCK DR,11930,Brentwood,Unknown,Unknown,BDM OTHER
+225,BDM OTHER,1,CURRITUCK DR,11930,Brentwood,Unknown,Unknown,BDM OTHER
+226,BDM OTHER,1,CURRITUCK DR,11930,Brentwood,Unknown,Unknown,BDM OTHER
+227,BDM OTHER,1,CURRITUCK DR,11930,Brentwood,Unknown,Unknown,BDM OTHER
+228,BDM OTHER,1,CURRITUCK DR,11930,Brentwood,Unknown,Unknown,BDM OTHER
+229,BDM OTHER,1,CURRITUCK DR,11930,Brentwood,Unknown,Unknown,BDM OTHER
+230,BDM OTHER,1,CURRITUCK DR,11930,Brentwood,Unknown,Unknown,BDM OTHER
+231,BDM OTHER,1,CURRITUCK DR,11930,Brentwood,Unknown,Unknown,BDM OTHER
+232,PYCA_B,4,GRETNA GREEN WY,137,Brentwood,Jacaranda mimosifolia,Jacaranda,BDM
+233,PYCA_B,4,GRETNA GREEN WY,139,Brentwood,Jacaranda mimosifolia,Jacaranda,BDM
+234,PYCA_B,2,GRETNA GREEN WY,123,Brentwood,Jacaranda mimosifolia,Jacaranda,BDM
+235,PYCA_B,3,GRETNA GREEN WY,123,Brentwood,Jacaranda mimosifolia,Jacaranda,BDM
+236,PYCA_B,4,GRETNA GREEN WY,117,Brentwood,Jacaranda mimosifolia,Jacaranda,BDM
+237,PYCA_B,6,GRETNA GREEN WY,117,Brentwood,Jacaranda mimosifolia,Jacaranda,BDM
+238,PYCA_B,4,DOROTHY ST,12319,Brentwood,Jacaranda mimosifolia,Jacaranda,BDM
+239,PYCA_B,5,KENTER AV,144,Brentwood,Jacaranda mimosifolia,Jacaranda,BDM
+240,PYCA_B,3,KENTER AV,127,Brentwood,Jacaranda mimosifolia,Jacaranda,BDM
+241,PYCA_B,2,KENTER AV,307,Brentwood,Jacaranda mimosifolia,Jacaranda,BDM
+242,PYCA_B,2,WELLESLEY AV,900,Brentwood,Jacaranda mimosifolia,Jacaranda,BDM
+243,PYCA_B,3,GOSHEN AVE,12057,Brentwood,Jacaranda mimosifolia,Jacaranda,BDM
+244,PYCA_B,3,GOSHEN AVE,12057,Brentwood,Jacaranda mimosifolia,Jacaranda,BDM
+245,PYCA_B,3,GOSHEN AVE,12057,Brentwood,Jacaranda mimosifolia,Jacaranda,BDM
+246,PYCA_B,3,GOSHEN AVE,12057,Brentwood,Jacaranda mimosifolia,Jacaranda,BDM
+247,PYCA_B,2,GOSHEN AVE,12030,Brentwood,Jacaranda mimosifolia,Jacaranda,BDM
+248,PYCA_B,2,GOSHEN AVE,12030,Brentwood,Jacaranda mimosifolia,Jacaranda,BDM
+249,PYCA_B,4,GOSHEN AVE,11931,Brentwood,Jacaranda mimosifolia,Jacaranda,BDM
+250,PYCA_B,5,GOSHEN AVE,11957,Brentwood,Jacaranda mimosifolia,Jacaranda,BDM
+251,PYCA_B,4,GOSHEN AVE,12200,Brentwood,Jacaranda mimosifolia,Jacaranda,BDM
+252,PYCA_B,5,GOSHEN AVE,12200,Brentwood,Jacaranda mimosifolia,Jacaranda,BDM
+253,PYCA_B,3,GOSHEN AVE,12213,Brentwood,Jacaranda mimosifolia,Jacaranda,BDM
+254,PYCA_B,3,GOSHEN AVE,12215,Brentwood,Jacaranda mimosifolia,Jacaranda,BDM
+255,PYCA_B,3,GOSHEN AVE,12215,Brentwood,Jacaranda mimosifolia,Jacaranda,BDM
+256,PYCA_B,3,S GRETNA GREEN WAY,1121,Brentwood,Jacaranda mimosifolia,Jacaranda,BDM
+257,PYCA_B,3,KIOWA AVE,11917,Brentwood,Jacaranda mimosifolia,Jacaranda,BDM
+258,PYCA_B,2,KIOWA AVE,11921,Brentwood,Jacaranda mimosifolia,Jacaranda,BDM
+259,PYCA_B,3,KIOWA AVE,11937,Brentwood,Jacaranda mimosifolia,Jacaranda,BDM
+260,PYCA_B,3,KIOWA AVE,11937,Brentwood,Jacaranda mimosifolia,Jacaranda,BDM
+261,PYCA_B,1,MAYFIELD AVE,11982,Brentwood,Jacaranda mimosifolia,Jacaranda,BDM
+262,PYCA_B,1,MAYFIELD AVE,11910,Brentwood,Jacaranda mimosifolia,Jacaranda,BDM
+263,PYCA_B,3,MAYFIELD AVE,11909,Brentwood,Jacaranda mimosifolia,Jacaranda,BDM
+264,PYCA_B,1,MONTANA AVE,11680,Brentwood,Jacaranda mimosifolia,Jacaranda,BDM
+265,PYCA_B,1,MONTANA AVE,11670,Brentwood,Jacaranda mimosifolia,Jacaranda,BDM
+266,PYCA_B,2,MONTANA AVE,11645,Brentwood,Jacaranda mimosifolia,Jacaranda,BDM
+267,PYCA_B,2,MONTANA AVE,11645,Brentwood,Jacaranda mimosifolia,Jacaranda,BDM
+268,PYCA_B,2,MONTANA AVE,11645,Brentwood,Jacaranda mimosifolia,Jacaranda,BDM
+269,PYCA_B,2,MONTANA AVE,11645,Brentwood,Jacaranda mimosifolia,Jacaranda,BDM
+270,PYCA_B,2,MONTANA AVE,11645,Brentwood,Jacaranda mimosifolia,Jacaranda,BDM
+271,PYCA_B,2,MONTANA AVE,11645,Brentwood,Jacaranda mimosifolia,Jacaranda,BDM
+272,PYCA_B,2,MONTANA AVE,11645,Brentwood,Jacaranda mimosifolia,Jacaranda,BDM
+273,PYCA_B,4,JOFFRE ST,11339,Brentwood,Jacaranda mimosifolia,Jacaranda,BDM
+274,PYCA_B,4,JOFFRE ST,11339,Brentwood,Jacaranda mimosifolia,Jacaranda,BDM
+275,PYCA_B,3,JOFFRE ST,11339,Brentwood,Jacaranda mimosifolia,Jacaranda,BDM
+276,PYCA_B,2,BELOIT AVE,191,Brentwood,Jacaranda mimosifolia,Jacaranda,BDM
+277,PYCA_B,1,BELOIT AVE,191,Brentwood,Jacaranda mimosifolia,Jacaranda,BDM
+278,PYCA_B,1,BELOIT AVE,256,Brentwood,Jacaranda mimosifolia,Jacaranda,BDM
+279,PYCA_B,1,BERWICK ST,11421,Brentwood,Jacaranda mimosifolia,Jacaranda,BDM
+280,PYCA_B,3,BERWICK ST,11414,Brentwood,Jacaranda mimosifolia,Jacaranda,BDM
+281,PYCA_B,2,BERWICK ST,11408,Brentwood,Jacaranda mimosifolia,Jacaranda,BDM
+282,PYCA_B,1,S BUNDY DR,11982,Brentwood,Jacaranda mimosifolia,Jacaranda,BDM
+283,PYCA_B,1,MAYFIELD AVE,11944,Brentwood,Jacaranda mimosifolia,Jacaranda,BDM
+284,PYCA_B,1,MAYFIELD AVE,11910,Brentwood,Jacaranda mimosifolia,Jacaranda,BDM
+285,PYCA_B,3,S WESTGATE AVE,987,Brentwood,Jacaranda mimosifolia,Jacaranda,BDM
+286,PYCA_B,1,S SALTAIR AVE,119,Brentwood,Jacaranda mimosifolia,Jacaranda,BDM
+287,LAIN,2,AYRSHIRE RD,11459,Brentwood,Lagerstroemia indica,Common crapemyrtle,BDS
+288,LIFO,2,DUNOON LN,2220,Brentwood,Liquidambar orientalis,Oriental sweetgum,BDM
+289,LIFO,1,DUNOON LN,12220,Brentwood,Liquidambar orientalis,Oriental sweetgum,BDM
+290,LIFO,1,DUNOON LN,12220,Brentwood,Liquidambar orientalis,Oriental sweetgum,BDM
+291,LIFO,2,DUNOON LN,12220,Brentwood,Liquidambar orientalis,Oriental sweetgum,BDM
+292,LIFO,2,DUNOON LN,1222,Brentwood,Liquidambar orientalis,Oriental sweetgum,BDM
+293,LIFO,2,AVONDALE AV,426,Brentwood,Liquidambar orientalis,Oriental sweetgum,BDM
+294,LIST,2,DUNOON LN,1220,Brentwood,Liquidambar styraciflua,Sweetgum,BDL
+295,LIST,1,DUNOON LN,12220,Brentwood,Liquidambar styraciflua,Sweetgum,BDL
+296,LIST,2,DUNOON LN,12220,Brentwood,Liquidambar styraciflua,Sweetgum,BDL
+297,LIST,2,DUNOON LN,12220,Brentwood,Liquidambar styraciflua,Sweetgum,BDL
+298,LIST,1,CLIFFWOOD AV,334,Brentwood,Liquidambar styraciflua,Sweetgum,BDL
+299,LIST,1,CLIFFWOOD AV,301,Brentwood,Liquidambar styraciflua,Sweetgum,BDL
+300,LIST,2,DOROTHY ST,12245,Brentwood,Liquidambar styraciflua,Sweetgum,BDL
+301,LIST,4,ANITA AVE,100,Brentwood,Liquidambar styraciflua,Sweetgum,BDL
+302,LIST,3,GOSHEN AVE,11938,Brentwood,Liquidambar styraciflua,Sweetgum,BDL
+303,LIST,4,BELOIT AVE,258,Brentwood,Liquidambar styraciflua,Sweetgum,BDL
+304,LIST,4,BERWICK ST,11403,Brentwood,Liquidambar styraciflua,Sweetgum,BDL
+305,LIST,3,BERWICK ST,11409,Brentwood,Liquidambar styraciflua,Sweetgum,BDL
+306,LIST,4,BERWICK ST,11415,Brentwood,Liquidambar styraciflua,Sweetgum,BDL
+307,LIST,5,BERWICK ST,11450,Brentwood,Liquidambar styraciflua,Sweetgum,BDL
+308,MAGR,2,GRETNA GREEN WY,332,Brentwood,Magnolia grandiflora,Southern magnolia; Evergreen magnolia,BEL
+309,MAGR,3,GRETNA GREEN WY,316,Brentwood,Magnolia grandiflora,Southern magnolia; Evergreen magnolia,BEL
+310,MAGR,5,GRETNA GREEN WY,300,Brentwood,Magnolia grandiflora,Southern magnolia; Evergreen magnolia,BEL
+311,MAGR,3,GRETNA GREEN WY,315,Brentwood,Magnolia grandiflora,Southern magnolia; Evergreen magnolia,BEL
+312,MAGR,4,GRETNA GREEN WY,315,Brentwood,Magnolia grandiflora,Southern magnolia; Evergreen magnolia,BEL
+313,MAGR,4,GRETNA GREEN WY,321,Brentwood,Magnolia grandiflora,Southern magnolia; Evergreen magnolia,BEL
+314,MAGR,4,GRETNA GREEN WY,331,Brentwood,Magnolia grandiflora,Southern magnolia; Evergreen magnolia,BEL
+315,MAGR,3,GRETNA GREEN WY,153,Brentwood,Magnolia grandiflora,Southern magnolia; Evergreen magnolia,BEL
+316,MAGR,3,GRETNA GREEN WY,126,Brentwood,Magnolia grandiflora,Southern magnolia; Evergreen magnolia,BEL
+317,MAGR,4,GRETNA GREEN WY,130,Brentwood,Magnolia grandiflora,Southern magnolia; Evergreen magnolia,BEL
+318,MAGR,2,GRETNA GREEN WY,146,Brentwood,Magnolia grandiflora,Southern magnolia; Evergreen magnolia,BEL
+319,MAGR,2,GRETNA GREEN WY,150,Brentwood,Magnolia grandiflora,Southern magnolia; Evergreen magnolia,BEL
+320,MAGR,3,GRETNA GREEN WY,156,Brentwood,Magnolia grandiflora,Southern magnolia; Evergreen magnolia,BEL
+321,MAGR,1,GRETNA GREEN WY,162,Brentwood,Magnolia grandiflora,Southern magnolia; Evergreen magnolia,BEL
+322,MAGR,4,GRETNA GREEN WY,166,Brentwood,Magnolia grandiflora,Southern magnolia; Evergreen magnolia,BEL
+323,MAGR,4,GRETNA GREEN WY,172,Brentwood,Magnolia grandiflora,Southern magnolia; Evergreen magnolia,BEL
+324,MAGR,4,GRETNA GREEN WY,172,Brentwood,Magnolia grandiflora,Southern magnolia; Evergreen magnolia,BEL
+325,MAGR,4,GRETNA GREEN WY,178,Brentwood,Magnolia grandiflora,Southern magnolia; Evergreen magnolia,BEL
+326,MAGR,5,GRETNA GREEN WY,300,Brentwood,Magnolia grandiflora,Southern magnolia; Evergreen magnolia,BEL
+327,MAGR,2,CLIFFWOOD AV,351,Brentwood,Magnolia grandiflora,Southern magnolia; Evergreen magnolia,BEL
+328,MAGR,2,CLIFFWOOD AV,351,Brentwood,Magnolia grandiflora,Southern magnolia; Evergreen magnolia,BEL
+329,MAGR,2,DOROTHY ST,880,Brentwood,Magnolia grandiflora,Southern magnolia; Evergreen magnolia,BEL
+330,MAGR,2,DOROTHY ST,880,Brentwood,Magnolia grandiflora,Southern magnolia; Evergreen magnolia,BEL
+331,MAGR,2,KENTER AV,300,Brentwood,Magnolia grandiflora,Southern magnolia; Evergreen magnolia,BEL
+332,MAGR,2,KENTER AV,331,Brentwood,Magnolia grandiflora,Southern magnolia; Evergreen magnolia,BEL
+333,MAGR,2,KENTER AV,331,Brentwood,Magnolia grandiflora,Southern magnolia; Evergreen magnolia,BEL
+334,MAGR,3,DOROTHY ST,12210,Brentwood,Magnolia grandiflora,Southern magnolia; Evergreen magnolia,BEL
+335,MAGR,2,GOSHEN AVE,12017,Brentwood,Magnolia grandiflora,Southern magnolia; Evergreen magnolia,BEL
+336,MAGR,2,GOSHEN AVE,12023,Brentwood,Magnolia grandiflora,Southern magnolia; Evergreen magnolia,BEL
+337,MAGR,1,GOSHEN AVE,12033,Brentwood,Magnolia grandiflora,Southern magnolia; Evergreen magnolia,BEL
+338,MAGR,0,GOSHEN AVE,12039,Brentwood,Magnolia grandiflora,Southern magnolia; Evergreen magnolia,BEL
+339,MAGR,2,GOSHEN AVE,12039,Brentwood,Magnolia grandiflora,Southern magnolia; Evergreen magnolia,BEL
+340,MAGR,1,GOSHEN AVE,12039,Brentwood,Magnolia grandiflora,Southern magnolia; Evergreen magnolia,BEL
+341,MAGR,4,KIOWA AVE,11946,Brentwood,Magnolia grandiflora,Southern magnolia; Evergreen magnolia,BEL
+342,MAGR,1,MAYFIELD AVE,11974,Brentwood,Magnolia grandiflora,Southern magnolia; Evergreen magnolia,BEL
+343,MAGR,1,MAYFIELD AVE,11974,Brentwood,Magnolia grandiflora,Southern magnolia; Evergreen magnolia,BEL
+344,MAGR,1,BERWICK ST,11426,Brentwood,Magnolia grandiflora,Southern magnolia; Evergreen magnolia,BEL
+345,MAGR,1,MAYFIELD AVE,11974,Brentwood,Magnolia grandiflora,Southern magnolia; Evergreen magnolia,BEL
+346,MAGR,1,MAYFIELD AVE,11974,Brentwood,Magnolia grandiflora,Southern magnolia; Evergreen magnolia,BEL
+347,MAGR,2,MONTANA AVE,12919,Brentwood,Magnolia grandiflora,Southern magnolia; Evergreen magnolia,BEL
+348,MAGR,2,MONTANA AVE,12919,Brentwood,Magnolia grandiflora,Southern magnolia; Evergreen magnolia,BEL
+349,MAGR,2,MONTANA AVE,12919,Brentwood,Magnolia grandiflora,Southern magnolia; Evergreen magnolia,BEL
+350,MAGR,3,MONTANA AVE,13001,Brentwood,Magnolia grandiflora,Southern magnolia; Evergreen magnolia,BEL
+351,MAGR,3,MONTANA AVE,13003,Brentwood,Magnolia grandiflora,Southern magnolia; Evergreen magnolia,BEL
+352,MAGR,3,MONTANA AVE,13005,Brentwood,Magnolia grandiflora,Southern magnolia; Evergreen magnolia,BEL
+353,MAGR,1,S BUNDY DR,0,Brentwood,Magnolia grandiflora,Southern magnolia; Evergreen magnolia,BEL
+354,BES OTHER,2,CLIFFWOOD AV,331,Brentwood,Melaleuca linariifolia,FLAXLEAF PAPERBARK,BES
+355,BES OTHER,1,CLIFFWOOD AV,321,Brentwood,Melaleuca linariifolia,FLAXLEAF PAPERBARK,BES
+356,CICA,2,MAYFIELD AVE,11963,Brentwood,Melaleuca quinquenervia,Cajeput tree,BEL
+357,CICA,2,MAYFIELD AVE,11963,Brentwood,Melaleuca quinquenervia,Cajeput tree,BEL
+358,NEOL,2,MAYFIELD AVE,11981,Brentwood,Nerium oleander,Oleander,BES
+359,NEOL,1,MAYFIELD AVE,11981,Brentwood,Nerium oleander,Oleander,BES
+360,NEOL,2,MAYFIELD AVE,11981,Brentwood,Nerium oleander,Oleander,BES
+361,PEM OTHER,2,GORHAM AVE,11616,Brentwood,Palm Species,PALM,PEM
+362,PEM OTHER,3,CHURCH LN,11339,Brentwood,Palm Species,PALM,PEM
+363,PEM OTHER,3,CHURCH LN,11339,Brentwood,Palm Species,PALM,PEM
+364,SCMO,3,DOROTHY ST,12322,Brentwood,Unknown,Unknown,BEM
+365,PHCA,6,GORHAM AVE,11617,Brentwood,Phoenix canariensis,Canary island date palm,PEL
+366,PHCA,5,GORHAM AVE,11622,Brentwood,Phoenix canariensis,Canary island date palm,PEL
+367,PHCA,6,MONTANA AVE,11628,Brentwood,Phoenix canariensis,Canary island date palm,PEL
+368,PHCA,6,MONTANA AVE,11628,Brentwood,Phoenix canariensis,Canary island date palm,PEL
+369,PHCA,6,MONTANA AVE,11628,Brentwood,Phoenix canariensis,Canary island date palm,PEL
+370,PHCA,6,MONTANA AVE,11628,Brentwood,Phoenix canariensis,Canary island date palm,PEL
+371,PHCA,5,MONTANA AVE,11628,Brentwood,Phoenix canariensis,Canary island date palm,PEL
+372,PHCA,5,MONTANA AVE,11600,Brentwood,Phoenix canariensis,Canary island date palm,PEL
+373,PHCA,5,MONTANA AVE,11600,Brentwood,Phoenix canariensis,Canary island date palm,PEL
+374,PHCA,5,MONTANA AVE,11600,Brentwood,Phoenix canariensis,Canary island date palm,PEL
+375,PHCA,6,MONTANA AVE,11600,Brentwood,Phoenix canariensis,Canary island date palm,PEL
+376,PHCA,5,MONTANA AVE,11600,Brentwood,Phoenix canariensis,Canary island date palm,PEL
+377,PHCA,5,MONTANA AVE,11600,Brentwood,Phoenix canariensis,Canary island date palm,PEL
+378,PI1,1,EVANSTON ST,12938,Brentwood,Picea pungens,Spruce,CEL
+379,PI1,2,AVONDALE AV,475,Brentwood,Picea pungens,Spruce,CEL
+380,PI2,4,EVANSTON ST,12938,Brentwood,Pinus canariensis,Canary Island pine,CEL
+381,PI2,3,AVONDALE AV,415,Brentwood,Pinus canariensis,Canary Island pine,CEL
+382,PI2,3,AVONDALE AV,415,Brentwood,Pinus canariensis,Canary Island pine,CEL
+383,PI2,3,AVONDALE AV,425,Brentwood,Pinus canariensis,Canary Island pine,CEL
+384,PI2,5,GORHAM AVE,11640,Brentwood,Pinus canariensis,Canary Island pine,CEL
+385,BDM OTHER,3,S BUNDY DR,0,Brentwood,Unknown,Unknown,BDM OTHER
+386,PIPI2,3,AVONDALE AV,414,Brentwood,Pinus pinea,Italian stone pine,CEL
+387,PIPI2,4,AVONDALE AV,414,Brentwood,Pinus pinea,Italian stone pine,CEL
+388,PIPI2,3,AVONDALE AV,414,Brentwood,Pinus pinea,Italian stone pine,CEL
+389,PIPI2,3,AVONDALE AV,414,Brentwood,Pinus pinea,Italian stone pine,CEL
+390,PIPI2,3,AVONDALE AV,414,Brentwood,Pinus pinea,Italian stone pine,CEL
+391,PIPI2,1,AVONDALE AV,425,Brentwood,Pinus pinea,Italian stone pine,CEL
+392,PIRA,2,S BUNDY DR,0,Brentwood,Pinus radiata,Montery pine,CEL
+393,PIRA,4,S BUNDY DR,0,Brentwood,Pinus radiata,Montery pine,CEL
+394,PIRA,5,S BUNDY DR,0,Brentwood,Pinus radiata,Montery pine,CEL
+395,PIRA,3,S BUNDY DR,0,Brentwood,Pinus radiata,Montery pine,CEL
+396,PIRA,3,S BUNDY DR,0,Brentwood,Pinus radiata,Montery pine,CEL
+397,PIRA,2,S BUNDY DR,0,Brentwood,Pinus radiata,Montery pine,CEL
+398,PIUN,2,KENTER AV,118,Brentwood,Pittosporum rhombifolium,Queensland pittosporum,BEM
+399,PIUN,1,KENTER AV,118,Brentwood,Pittosporum rhombifolium,Queensland pittosporum,BEM
+400,PIUN,2,KENTER AV,122,Brentwood,Pittosporum rhombifolium,Queensland pittosporum,BEM
+401,PIUN,3,KENTER AV,139,Brentwood,Pittosporum rhombifolium,Queensland pittosporum,BEM
+402,PIUN,2,KENTER AV,139,Brentwood,Pittosporum rhombifolium,Queensland pittosporum,BEM
+403,PI23,1,CURRITUCK DR,365,Brentwood,Pittosporum tobira,PITTOSPORUM TOBIRA,BES
+404,PI23,2,CURRITUCK DR,365,Brentwood,Pittosporum tobira,PITTOSPORUM TOBIRA,BES
+405,PIUN,2,AYRSHIRE RD,11434,Brentwood,Pittosporum undulatum,Victorian box,BEM
+406,PIUN,4,EVANSTON ST,12938,Brentwood,Pittosporum undulatum,Victorian box,BEM
+407,PIUN,2,EVANSTON ST,12938,Brentwood,Pittosporum undulatum,Victorian box,BEM
+408,PIUN,2,EVANSTON ST,12938,Brentwood,Pittosporum undulatum,Victorian box,BEM
+409,PIUN,2,AVONDALE AV,426,Brentwood,Pittosporum undulatum,Victorian box,BEM
+410,PIUN,1,CURRITUCK DR,365,Brentwood,Pittosporum undulatum,Victorian box,BEM
+411,PIUN,3,CURRITUCK DR,11931,Brentwood,Pittosporum undulatum,Victorian box,BEM
+412,PIUN,3,MONTANA AVE,11666,Brentwood,Pittosporum undulatum,Victorian box,BEM
+413,PIUN,2,MONTANA AVE,11666,Brentwood,Pittosporum undulatum,Victorian box,BEM
+414,PIUN,2,MONTANA AVE,11666,Brentwood,Pittosporum undulatum,Victorian box,BEM
+415,PIUN,1,AVONDALE AVE,0,Brentwood,Pittosporum undulatum,Victorian box,BEM
+416,PIUN,2,AVONDALE AVE,0,Brentwood,Pittosporum undulatum,Victorian box,BEM
+417,PIUN,4,AVONDALE AVE,0,Brentwood,Pittosporum undulatum,Victorian box,BEM
+418,PIUN,2,S BUNDY DR,0,Brentwood,Pittosporum undulatum,Victorian box,BEM
+419,PLAC,5,GRETNA GREEN WY,101,Brentwood,Platanus racemosa,California sycamore,BDL
+420,PLAC,1,GOSHEN AVE,11925,Brentwood,Platanus racemosa,California sycamore,BDL
+421,PLAC,1,GOSHEN AVE,11925,Brentwood,Platanus racemosa,California sycamore,BDL
+422,PLAC,1,GOSHEN AVE,11925,Brentwood,Platanus racemosa,California sycamore,BDL
+423,PLAC,1,S ROCKINGHAM AVE,270,Brentwood,Platanus racemosa,California sycamore,BDL
+424,PLAC,1,S ROCKINGHAM AVE,270,Brentwood,Platanus racemosa,California sycamore,BDL
+425,PLAC,1,S ROCKINGHAM AVE,270,Brentwood,Platanus racemosa,California sycamore,BDL
+426,PLAC_B,4,GRETNA GREEN WY,131,Brentwood,Platanus acerifolia,LONDON PLANE TREE,BDL
+427,PLAC_B,3,GRETNA GREEN WY,131,Brentwood,Platanus acerifolia,LONDON PLANE TREE,BDL
+428,PLAC_B,3,GRETNA GREEN WY,101,Brentwood,Platanus acerifolia,LONDON PLANE TREE,BDL
+429,PLAC_B,3,GRETNA GREEN WY,101,Brentwood,Platanus acerifolia,LONDON PLANE TREE,BDL
+430,PLAC_B,4,GRETNA GREEN WY,101,Brentwood,Platanus acerifolia,LONDON PLANE TREE,BDL
+431,POGR2,2,DOROTHY ST,880,Brentwood,Podocarpus gracilior,FERN PINE,CEL
+432,POGR2,3,DOROTHY ST,12319,Brentwood,Podocarpus gracilior,FERN PINE,CEL
+433,POGR2,3,DOROTHY ST,12311,Brentwood,Podocarpus gracilior,FERN PINE,CEL
+434,POGR2,5,DOROTHY ST,12306,Brentwood,Podocarpus gracilior,FERN PINE,CEL
+435,POGR2,3,WELLESLEY AV,900,Brentwood,Podocarpus gracilior,FERN PINE,CEL
+436,POGR2,5,DOROTHY ST,12212,Brentwood,Podocarpus gracilior,FERN PINE,CEL
+437,POGR2,1,WILSHIRE BLVD,12081,Brentwood,Podocarpus gracilior,FERN PINE,CEL
+438,POGR2,2,DUNSTAN WAY,11620,Brentwood,Podocarpus gracilior,FERN PINE,CEL
+439,POGR2,2,DUNSTAN WAY,11620,Brentwood,Podocarpus gracilior,FERN PINE,CEL
+440,POGR2,4,AVONDALE AVE,252,Brentwood,Podocarpus gracilior,FERN PINE,CEL
+441,POGR2,4,AVONDALE AVE,252,Brentwood,Podocarpus gracilior,FERN PINE,CEL
+442,POGR2,3,AVONDALE AVE,252,Brentwood,Podocarpus gracilior,FERN PINE,CEL
+443,POGR2,1,AVONDALE AVE,122,Brentwood,Podocarpus gracilior,FERN PINE,CEL
+444,POGR2,1,CHURCH LN,11332,Brentwood,Podocarpus gracilior,FERN PINE,CEL
+445,POGR2,1,CHURCH LN,11332,Brentwood,Podocarpus gracilior,FERN PINE,CEL
+446,POGR2,1,CHURCH LN,11332,Brentwood,Podocarpus gracilior,FERN PINE,CEL
+447,POGR2,1,CHURCH LN,11332,Brentwood,Podocarpus gracilior,FERN PINE,CEL
+448,POGR2,1,CHURCH LN,11332,Brentwood,Podocarpus gracilior,FERN PINE,CEL
+449,POGR2,1,CHURCH LN,11339,Brentwood,Podocarpus gracilior,FERN PINE,CEL
+450,POGR2,1,CHURCH LN,11339,Brentwood,Podocarpus gracilior,FERN PINE,CEL
+451,PRCE,1,CARMELINA AVE,148,Brentwood,Prunus cerasifera,Cherry plum,BDS
+452,PRPE2,2,CLIFFWOOD AV,301,Brentwood,Prunus persica,Peach,BDS
+453,PYCA_B,1,KEIL ST,11332,Brentwood,Pyrus calleryana,Flowering pear; Callery pear,BDM
+454,PYCA_B,2,GOSHEN AVE,11954,Brentwood,Pyrus calleryana,Flowering pear; Callery pear,BDM
+455,PYCA_B,1,GOSHEN AVE,11920,Brentwood,Pyrus calleryana,Flowering pear; Callery pear,BDM
+456,PYCA_B,2,GOSHEN AVE,11916,Brentwood,Pyrus calleryana,Flowering pear; Callery pear,BDM
+457,PYCA_B,2,GOSHEN AVE,11906,Brentwood,Pyrus calleryana,Flowering pear; Callery pear,BDM
+458,PYCA_B,1,GOSHEN AVE,11949,Brentwood,Pyrus calleryana,Flowering pear; Callery pear,BDM
+459,PYCA_B,2,GOSHEN AVE,11949,Brentwood,Pyrus calleryana,Flowering pear; Callery pear,BDM
+460,PYCA_B,2,GOSHEN AVE,11949,Brentwood,Pyrus calleryana,Flowering pear; Callery pear,BDM
+461,PYCA_B,3,GOSHEN AVE,11953,Brentwood,Pyrus calleryana,Flowering pear; Callery pear,BDM
+462,PYCA_B,1,MAYFIELD AVE,11964,Brentwood,Pyrus calleryana,Flowering pear; Callery pear,BDM
+463,PYKA,1,GRANVILLE AV,110,Brentwood,Pyrus kawakamii,Evergreen pear,BDS
+464,PYKA,2,SAN VICENTE BLVD,1041,Brentwood,Pyrus kawakamii,Evergreen pear,BDS
+465,PYKA,2,SAN VICENTE BLVD,1041,Brentwood,Pyrus kawakamii,Evergreen pear,BDS
+466,PYKA,2,SAN VICENTE BLVD,1041,Brentwood,Pyrus kawakamii,Evergreen pear,BDS
+467,PYKA,1,SAN VICENTE BLVD,1041,Brentwood,Pyrus kawakamii,Evergreen pear,BDS
+468,PYKA,1,SAN VICENTE BLVD,1041,Brentwood,Pyrus kawakamii,Evergreen pear,BDS
+469,PYKA,3,KENTER AV,124,Brentwood,Pyrus kawakamii,Evergreen pear,BDS
+470,PYKA,1,KENTER AV,325,Brentwood,Pyrus kawakamii,Evergreen pear,BDS
+471,PYKA,1,BELOIT AV,136,Brentwood,Pyrus kawakamii,Evergreen pear,BDS
+472,PYKA,1,BELOIT AV,136,Brentwood,Pyrus kawakamii,Evergreen pear,BDS
+473,PYKA,2,KEIL ST,11332,Brentwood,Pyrus kawakamii,Evergreen pear,BDS
+474,PYKA,2,KEIL ST,11344,Brentwood,Pyrus kawakamii,Evergreen pear,BDS
+475,PYKA,1,KEIL ST,11344,Brentwood,Pyrus kawakamii,Evergreen pear,BDS
+476,PYKA,2,CARMELINA AVE,156,Brentwood,Pyrus kawakamii,Evergreen pear,BDS
+477,PYKA,2,CARMELINA AVE,156,Brentwood,Pyrus kawakamii,Evergreen pear,BDS
+478,PYKA,1,MAYFIELD AVE,11964,Brentwood,Pyrus kawakamii,Evergreen pear,BDS
+479,PYKA,2,MAYFIELD AVE,11954,Brentwood,Pyrus kawakamii,Evergreen pear,BDS
+480,PYKA,6,BELOIT AVE,160,Brentwood,Pyrus kawakamii,Evergreen pear,BDS
+481,PYKA,1,BERWICK ST,11400,Brentwood,Pyrus kawakamii,Evergreen pear,BDS
+482,PYKA,2,MAYFIELD AVE,11954,Brentwood,Pyrus kawakamii,Evergreen pear,BDS
+483,PYKA,1,WATERFORD ST,11339,Brentwood,Pyrus kawakamii,Evergreen pear,BDS
+484,PYKA,1,WATERFORD ST,11339,Brentwood,Pyrus kawakamii,Evergreen pear,BDS
+485,PYKA,1,CHENAULT ST,11332,Brentwood,Pyrus kawakamii,Evergreen pear,BDS
+486,PYKA,1,CHENAULT ST,11332,Brentwood,Pyrus kawakamii,Evergreen pear,BDS
+487,PYKA,1,CHENAULT ST,11332,Brentwood,Pyrus kawakamii,Evergreen pear,BDS
+488,PYKA,2,BURNHAM ST,11369,Brentwood,Pyrus kawakamii,Evergreen pear,BDS
+489,PYKA,2,BURNHAM ST,11369,Brentwood,Pyrus kawakamii,Evergreen pear,BDS
+490,PYKA,2,BERWICK ST,11400,Brentwood,Pyrus kawakamii,Evergreen pear,BDS
+491,PYKA,2,BERWICK ST,11400,Brentwood,Pyrus kawakamii,Evergreen pear,BDS
+492,PYKA,2,BURNHAM ST,11401,Brentwood,Pyrus kawakamii,Evergreen pear,BDS
+493,PYCA_B,1,S BUNDY DR,0,Brentwood,Pyrus calleryana,Flowering pear; Callery pear,BDM
+494,QUAG,3,SUNSET BLVD,11559,Brentwood,Quercus agrifolia,Coastal live oak; California live oak,BEL
+495,QUAG,4,GORHAM AVE,11640,Brentwood,Quercus agrifolia,Coastal live oak; California live oak,BEL
+496,QUIL2,6,CLIFFWOOD AV,321,Brentwood,Quercus ilex,Holly oak,BEL
+497,QUIL2,5,CLIFFWOOD AV,321,Brentwood,Quercus ilex,Holly oak,BEL
+498,QUIL2,3,ANITA AVE,100,Brentwood,Quercus ilex,Holly oak,BEL
+499,QUIL2,1,BUNDY AV,1000,Brentwood,Quercus virginiana,Southern live oak,BEL
+500,SA,1,S BUNDY DR,0,Brentwood,Salix species,WILLOW,BDL
+501,SA,1,S BUNDY DR,0,Brentwood,Salix species,WILLOW,BDL
+502,SA,1,S BUNDY DR,0,Brentwood,Salix species,WILLOW,BDL
+503,SA,1,S BUNDY DR,0,Brentwood,Salix species,WILLOW,BDL
+504,SA,1,CURRITUCK DR,11930,Brentwood,Salix babylonica,WEEPING WILLOW,BDM
+505,SA,1,CURRITUCK DR,11930,Brentwood,Salix babylonica,WEEPING WILLOW,BDM
+506,SCMO,4,AVONDALE AV,415,Brentwood,Schinus molle,California peppertree,BEM
+507,SCMO,2,AVONDALE AV,426,Brentwood,Schinus molle,California peppertree,BEM
+508,SCMO,3,DOROTHY ST,12322,Brentwood,Schinus molle,California peppertree,BEM
+509,SCMO,5,GORHAM AVE,11606,Brentwood,Schinus molle,California peppertree,BEM
+510,LAIN,6,GRETNA GREEN WY,322,Brentwood,Schinus terebinthifolius,Brazilian pepper,BES
+511,LAIN,5,GORHAM AVE,11699,Brentwood,Schinus terebinthifolius,Brazilian pepper,BES
+512,LAIN,4,GORHAM AVE,11699,Brentwood,Schinus terebinthifolius,Brazilian pepper,BES
+513,LAIN,3,MAYFIELD AVE,11981,Brentwood,Schinus terebinthifolius,Brazilian pepper,BES
+514,LAIN,3,S BUNDY DR,978,Brentwood,Schinus terebinthifolius,Brazilian pepper,BES
+515,SESE,6,AVONDALE AVE,308,Brentwood,Sequoia sempervirens,Coast redwood,CEL
+516,SESE,6,AVONDALE AVE,0,Brentwood,Sequoia sempervirens,Coast redwood,CEL
+517,SOJA,1,KENTER AV,140,Brentwood,Sophora japonica,JAPANESE PAGODA TREE,BDL
+525,PEL OTHER,3,GRETNA GREEN WY,141,Brentwood,Syagrus romanzoffiana,COCO PALM,PEL
+526,PEL OTHER,3,GRETNA GREEN WY,141,Brentwood,Syagrus romanzoffiana,COCO PALM,PEL
+527,PEL OTHER,2,MAYFIELD AVE,11911,Brentwood,Syagrus romanzoffiana,COCO PALM,PEL
+528,PEL OTHER,2,MAYFIELD AVE,11919,Brentwood,Syagrus romanzoffiana,COCO PALM,PEL
+529,PEL OTHER,2,MAYFIELD AVE,11911,Brentwood,Syagrus romanzoffiana,COCO PALM,PEL
+530,PEL OTHER,2,MAYFIELD AVE,11919,Brentwood,Syagrus romanzoffiana,COCO PALM,PEL
+531,ZESE,4,BELOIT AVE,160,Brentwood,Tipuana tipu,Tipu,BDM
+532,ULPA,4,GRETNA GREEN WY,116,Brentwood,Ulmus parvifolia,Chinese elm,BDM
+533,ULPA,3,KENTER AV,338,Brentwood,Ulmus parvifolia,Chinese elm,BDM
+534,ULPA,1,KENTER AV,338,Brentwood,Ulmus parvifolia,Chinese elm,BDM
+535,ULPA,1,KENTER AV,338,Brentwood,Ulmus parvifolia,Chinese elm,BDM
+536,ULPA,3,KENTER AV,338,Brentwood,Ulmus parvifolia,Chinese elm,BDM
+537,ULPA,3,KENTER AV,338,Brentwood,Ulmus parvifolia,Chinese elm,BDM
+538,ULPA,5,SUNSET BLVD,12432,Brentwood,Ulmus parvifolia,Chinese elm,BDM
+539,ULPA,1,SUNSET BLVD,12517,Brentwood,Ulmus parvifolia,Chinese elm,BDM
+540,ULPA,1,SUNSET BLVD,12517,Brentwood,Ulmus parvifolia,Chinese elm,BDM
+541,ULPA,3,GOSHEN AVE,12049,Brentwood,Ulmus parvifolia,Chinese elm,BDM
+542,ULPA,3,GOSHEN AVE,12049,Brentwood,Ulmus parvifolia,Chinese elm,BDM
+543,ULPA,3,BELOIT AVE,173,Brentwood,Ulmus parvifolia,Chinese elm,BDM
+544,ULPA,3,BELOIT AVE,161,Brentwood,Ulmus parvifolia,Chinese elm,BDM
+545,ULPA,1,BELOIT AVE,263,Brentwood,Ulmus parvifolia,Chinese elm,BDM
+546,ULPA,3,S BUNDY DR,119,Brentwood,Ulmus parvifolia,Chinese elm,BDM
+547,UMCA,1,GORHAM AVE,11640,Brentwood,Umbellularia californica,California laurel,BEL
+708,WAFI,3,BUNDY AV,750,Brentwood,Washingtonia filifera,California palm,PES
+709,WAFI,3,BUNDY AV,750,Brentwood,Washingtonia filifera,California palm,PES
+710,WAFI,3,BUNDY AV,731,Brentwood,Washingtonia filifera,California palm,PES
+711,WAFI,2,GORHAM AVE,11622,Brentwood,Washingtonia filifera,California palm,PES
+712,WARO,3,BUNDY AV,731,Brentwood,Washingtonia robusta,Mexican fan palm,PES
+713,WARO,3,BUNDY AV,750,Brentwood,Washingtonia robusta,Mexican fan palm,PES
+714,WARO,3,BUNDY AV,730,Brentwood,Washingtonia robusta,Mexican fan palm,PES
+715,WARO,3,BUNDY AV,730,Brentwood,Washingtonia robusta,Mexican fan palm,PES
+716,WARO,3,BUNDY AV,730,Brentwood,Washingtonia robusta,Mexican fan palm,PES
+717,WARO,3,BUNDY AV,730,Brentwood,Washingtonia robusta,Mexican fan palm,PES
+718,WARO,3,BUNDY AV,731,Brentwood,Washingtonia robusta,Mexican fan palm,PES
+719,WARO,3,BUNDY AV,731,Brentwood,Washingtonia robusta,Mexican fan palm,PES
+720,WARO,3,BUNDY AV,731,Brentwood,Washingtonia robusta,Mexican fan palm,PES
+721,WARO,3,BUNDY AV,731,Brentwood,Washingtonia robusta,Mexican fan palm,PES
+722,WARO,3,MONTANA AV,12300,Brentwood,Washingtonia robusta,Mexican fan palm,PES
+723,WARO,3,MONTANA AV,12300,Brentwood,Washingtonia robusta,Mexican fan palm,PES
+724,WARO,3,MONTANA AV,12308,Brentwood,Washingtonia robusta,Mexican fan palm,PES
+725,WARO,3,MONTANA AV,12314,Brentwood,Washingtonia robusta,Mexican fan palm,PES
+726,WARO,3,MONTANA AV,12320,Brentwood,Washingtonia robusta,Mexican fan palm,PES
+727,WARO,3,MONTANA AV,12320,Brentwood,Washingtonia robusta,Mexican fan palm,PES
+728,WARO,3,MONTANA AV,12326,Brentwood,Washingtonia robusta,Mexican fan palm,PES
+729,WARO,3,MONTANA AV,12336,Brentwood,Washingtonia robusta,Mexican fan palm,PES
+730,WARO,3,MONTANA AV,12340,Brentwood,Washingtonia robusta,Mexican fan palm,PES
+731,WARO,3,MONTANA AV,12340,Brentwood,Washingtonia robusta,Mexican fan palm,PES
+732,WARO,3,MONTANA AV,12350,Brentwood,Washingtonia robusta,Mexican fan palm,PES
+733,WARO,3,MONTANA AV,12350,Brentwood,Washingtonia robusta,Mexican fan palm,PES
+734,WARO,1,MONTANA AV,12350,Brentwood,Washingtonia robusta,Mexican fan palm,PES
+735,WARO,3,MONTANA AV,12354,Brentwood,Washingtonia robusta,Mexican fan palm,PES
+736,WARO,3,MONTANA AV,12354,Brentwood,Washingtonia robusta,Mexican fan palm,PES
+737,WARO,3,DOROTHY ST,880,Brentwood,Washingtonia robusta,Mexican fan palm,PES
+738,WARO,3,DOROTHY ST,12329,Brentwood,Washingtonia robusta,Mexican fan palm,PES
+739,WARO,3,DOROTHY ST,12323,Brentwood,Washingtonia robusta,Mexican fan palm,PES
+740,WARO,4,DOROTHY ST,12315,Brentwood,Washingtonia robusta,Mexican fan palm,PES
+741,WARO,3,DOROTHY ST,12305,Brentwood,Washingtonia robusta,Mexican fan palm,PES
+742,WARO,4,DOROTHY ST,12310,Brentwood,Washingtonia robusta,Mexican fan palm,PES
+743,WARO,3,DOROTHY ST,12318,Brentwood,Washingtonia robusta,Mexican fan palm,PES
+744,WARO,3,DOROTHY ST,12326,Brentwood,Washingtonia robusta,Mexican fan palm,PES
+745,WARO,4,WELLESLEY AV,900,Brentwood,Washingtonia robusta,Mexican fan palm,PES
+746,WARO,3,DOROTHY ST,12252,Brentwood,Washingtonia robusta,Mexican fan palm,PES
+747,WARO,3,DOROTHY ST,12240,Brentwood,Washingtonia robusta,Mexican fan palm,PES
+748,WARO,1,DOROTHY ST,12236,Brentwood,Washingtonia robusta,Mexican fan palm,PES
+749,WARO,4,DOROTHY ST,12232,Brentwood,Washingtonia robusta,Mexican fan palm,PES
+750,WARO,3,DOROTHY ST,12224,Brentwood,Washingtonia robusta,Mexican fan palm,PES
+751,WARO,3,DOROTHY ST,12216,Brentwood,Washingtonia robusta,Mexican fan palm,PES
+752,WARO,3,DOROTHY ST,12212,Brentwood,Washingtonia robusta,Mexican fan palm,PES
+753,WARO,4,DOROTHY ST,12221,Brentwood,Washingtonia robusta,Mexican fan palm,PES
+754,WARO,4,DOROTHY ST,12229,Brentwood,Washingtonia robusta,Mexican fan palm,PES
+755,WARO,3,DOROTHY ST,12239,Brentwood,Washingtonia robusta,Mexican fan palm,PES
+756,WARO,3,DOROTHY ST,12245,Brentwood,Washingtonia robusta,Mexican fan palm,PES
+757,WARO,3,DOROTHY ST,12253,Brentwood,Washingtonia robusta,Mexican fan palm,PES
+758,WARO,3,S BUNDY DR,1170,Brentwood,Washingtonia robusta,Mexican fan palm,PES
+759,WARO,3,S BUNDY DR,1170,Brentwood,Washingtonia robusta,Mexican fan palm,PES
+760,WARO,3,S BUNDY DR,1143,Brentwood,Washingtonia robusta,Mexican fan palm,PES
+761,WARO,3,S BUNDY DR,1153,Brentwood,Washingtonia robusta,Mexican fan palm,PES
+762,WARO,3,S BUNDY DR,1152,Brentwood,Washingtonia robusta,Mexican fan palm,PES
+763,WARO,3,WILSHIRE BLVD,12121,Brentwood,Washingtonia robusta,Mexican fan palm,PES
+764,WARO,3,WILSHIRE BLVD,12121,Brentwood,Washingtonia robusta,Mexican fan palm,PES
+765,WARO,3,WILSHIRE BLVD,12121,Brentwood,Washingtonia robusta,Mexican fan palm,PES
+766,WARO,3,S BUNDY DR,1169,Brentwood,Washingtonia robusta,Mexican fan palm,PES
+767,WARO,3,S BUNDY DR,1157,Brentwood,Washingtonia robusta,Mexican fan palm,PES
+768,WARO,3,S BUNDY DR,1153,Brentwood,Washingtonia robusta,Mexican fan palm,PES
