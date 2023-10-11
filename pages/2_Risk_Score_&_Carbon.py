@@ -3,7 +3,7 @@ from PIL import Image
 
 st.markdown(
    """
-   <h2 style='font-size: 22px'>National Risk Index dataset</h2>
+   <h2 style='font-size: 35px'>National Risk Index dataset</h2>
    """,
    unsafe_allow_html=True
 )
@@ -15,7 +15,7 @@ st.write("""
 
 st.markdown(
    """
-   <h2 style='font-size: 22px'>National Risk score and Community Funds</h2>
+   <h2 style='font-size: 35px'>National Risk Score and Community Funds</h2>
    """,
    unsafe_allow_html=True
 )
@@ -30,7 +30,7 @@ st.image("analysis_jpeg/NRI.png")
 
 st.markdown(
    """
-   <h2 style='font-size: 22px'>Carbon Emissions dataset</h2>
+   <h2 style='font-size: 35px'>Carbon Emissions dataset</h2>
    """,
    unsafe_allow_html=True
 )
@@ -42,7 +42,7 @@ This dataset from the Environmental Investigation Agency provides a comprehensiv
 
 st.markdown(
    """
-   <h2 style='font-size: 22px'>Carbon emissions and Community Funds</h2>
+   <h2 style='font-size: 35px'>Carbon Emissions and Community Funds</h2>
    """,
    unsafe_allow_html=True
 )
