@@ -10,7 +10,7 @@ page_bg_img =  """
 
 st.sidebar.success("Select from the pages above to navigate through our analysis.")
 
-st.markdown('# Introduction')
+st.markdown('# Team 1120 - WiD Datathon Submission')
 
 st.markdown("Hello! 🌞")
 
@@ -82,14 +82,57 @@ st.markdown(
 st.markdown("## The Approaches")
 st.markdown(
     """
-    We each 
+    We each took the Community Projects dataset as our common thread, but examined it with different
+    sources of environmental measures. Here is a quick overview of the approaches that we took:
+
+    1. (Lydia) 🌳 Exploring the relationship between community investments and tree counts.
+    2. (Dolly) : 🔥Exploring the effect of state-wide carbon emissions and climate disaster risks.
+    3. (Alicia) : 🌫️ Exploring the effect on energy burdens and air quality.
+
+    You can read about each approach in depth using the sidebar.
     """
 )
 st.markdown("## Datasets")
-st.markdown(
-   """
-   <h2 style='font-size: 22px'>1. Community Development Block Grant dataset</h2>
-   """,
-   unsafe_allow_html=True
-)
-st.markdown("summary (include info about cleaning, cut off dates, where the source came from, trustworthiness)")
+st.markdown("""
+            1. 💰 **Community Development Block Grant Dataset**
+
+            Our main dataset. Describes over 330k community projects that were funded at a city-,
+            state-, or federal- level, between the years of 1998 and 2019. Also describes the type
+            of grantee, what grouping the project fell into, a description of the project, the
+            LON / LAT of the project, and when it was completed (if it had been).
+
+            **Source**: Department of Housing and Urban Development GIS HUD [here](https://hudgis-hud.opendata.arcgis.com/datasets/HUD::community-development-block-grant-activity/)
+            """)
+st.markdown("""
+            2. 🌳 **2016 Tree Map**
+
+            Geospatial data map layer describing live tree biomass in 2016, as well as tree species
+            and forest structure for landscape dynamics analysis.
+
+            **Source**:  U.S. Forest Service - Geospatial Data Discovery Portal [here](https://data-usfs.hub.arcgis.com/datasets/c4c3faa9151e42ccbf6ed1bb69bef853/)
+            """)
+
+st.markdown("""
+            3. 🌲 **Raw Urban Street Tree Inventory**
+
+            CSV datafile containing urban tree inventory data for 929,823 street trees that were
+            collected from 2006 to 2013 in 49 California cities. Fifty six urban tree inventories
+            were obtained from various sources for California cities across five climate zones. Data
+            included in this publication include tree location (city, street name and number),
+            diameter at breast height, species name and/or species code, and tree type
+
+            **Source**:  U.S. Forest Service - Geospatial Data Discovery Portal [here](https://data-usfs.hub.arcgis.com/datasets/c4c3faa9151e42ccbf6ed1bb69bef853/)
+            """)
+
+st.markdown("""
+            3. ✊ **Justice40 dataset collection**
+
+            A table of all datasets that feed the CEJST application, including access links and
+            contacts. Includes the energy and PM2.5 datasets used in Alicia's analysis.
+
+            **Source**:  GitHub [here](https://github.com/usds/justice40-tool/blob/main/DATASETS.md)
+            """)
+
+st.divider()
+
+st.markdown("Thanks for reading! If you have any questions or comments, please reach out to pauly.lydia@gmail.com.")
